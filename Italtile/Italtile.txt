@@ -1,0 +1,593 @@
+   <h3> South Africa </h3>
+                                                                            <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Eastern Cape                                <span>
+                        1  Store                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/wysiwyg/Walmer-Showroom.jpg"
+                                                     alt="Italtile Walmer" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Walmer                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Corner Martin Road & 17th Avenue, Springfield, Gqeberha                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_39 = JSON.parse('{"id":"39","slug":"italtile-walmer","title":"Italtile Walmer","image":null,"manager":"Johan Kemper","telephone":"041 612 0202","telephone_alternative":null,"cellphone":null,"email":"kemperj@italtile.co.za","description":null,"address_line1":"Corner Martin Road & 17th Avenue, Springfield, Gqeberha","address_line2":null,"address_comment":null,"city":"Gqeberha","region_id":"611","country_id":"ZA","longitude":" 25.553106900296235","latitude":"-33.9837497645373","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":null,"store_code":"I924","store_contact_primary":"#","store_contact_primary_rep_code":"12389","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"0","visible":"1","visible_in_checkout":"1","created_at":"2023-05-29 07:28:30","updated_at":"2023-08-30 13:19:19","warehouse_email":"walwarehouse@italtile.co.za","primary_image":"wysiwyg\/Walmer-Showroom.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_39 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-walmer"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                                                <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Gauteng                                <span>
+                        7   Stores                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile-Boksburg-I-2022-04-28.jpg"
+                                                     alt="Italtile Boksburg" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Boksburg                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Corner North Rand and Trichardt Road, Beyers Park, Boksburg                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_14 = JSON.parse('{"id":"14","slug":"italtile-boksburg","title":"Italtile Boksburg","image":"store\/boksburg-5c657d184c097.jpg","manager":"Marku Gouws","telephone":"011 255 1060","telephone_alternative":null,"cellphone":null,"email":"gouwsm@italtile.co.za","description":null,"address_line1":"Corner North Rand and Trichardt Road, Beyers Park, Boksburg","address_line2":null,"address_comment":null,"city":"Boksburg","region_id":"610","country_id":"ZA","longitude":"28.25489357301113","latitude":"-26.17841956297405","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I916","store_contact_primary":"#","store_contact_primary_rep_code":"5016","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8am - 5pm","hours_thu":"8:30am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-02-14 16:37:12","updated_at":"2024-12-03 11:07:47","warehouse_email":"iboksburgwh@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile-Boksburg-I-2022-04-28.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_14 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-boksburg"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile-Bryanston.jpg"
+                                                     alt="Italtile Bryanston" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Bryanston                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    72 Peter Place, Bryanston, Sandton                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_15 = JSON.parse('{"id":"15","slug":"italtile-bryanston","title":"Italtile Bryanston","image":"store\/bryanston-5c31eaa87fe88.JPG","manager":"Sonia Matshitse","telephone":"011 510 9002","telephone_alternative":"011 510 9094","cellphone":null,"email":"matshitses@italtile.co.za","description":null,"address_line1":"72 Peter Place, Bryanston, Sandton","address_line2":null,"address_comment":null,"city":"Bryanston","region_id":"610","country_id":"ZA","longitude":"28.025497","latitude":" -26.082028","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I905","store_contact_primary":"#","store_contact_primary_rep_code":"5012","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8:30am - 5pm","hours_wed":"8am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-01-06 13:47:54","updated_at":"2024-12-03 10:50:05","warehouse_email":"ngubanes@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile-Bryanston.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_15 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-bryanston"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile_Menlyn.jpg"
+                                                     alt="Italtile Menlyn" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Menlyn                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    38 Palala Road, Ashlea Gardens, Pretoria                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_20 = JSON.parse('{"id":"20","slug":"italtile-menlyn","title":"Italtile Menlyn","image":"store\/menlyn-5c657e2171f8e.jpg","manager":"Sias Human","telephone":"012 348 8700","telephone_alternative":"012 348 3429","cellphone":null,"email":"humans@italtile.co.za","description":null,"address_line1":"38 Palala Road, Ashlea Gardens, Pretoria","address_line2":null,"address_comment":null,"city":"Pretoria","region_id":"610","country_id":"ZA","longitude":"28.271854","latitude":" -25.782773","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I902","store_contact_primary":"#","store_contact_primary_rep_code":"5011","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5:30pm","hours_tue":"8am - 5:30pm","hours_wed":"8:30am - 5:30pm","hours_thu":"8am - 5:30pm","hours_fri":"8am - 5:30pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-02-14 16:41:37","updated_at":"2024-12-03 11:05:34","warehouse_email":"khuzwayos@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile_Menlyn.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_20 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-menlyn"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/The-Glen.jpg"
+                                                     alt="Italtile The Glen" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile The Glen                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    6 Skukusa Road, Gleneagles, Johannesburg                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_21 = JSON.parse('{"id":"21","slug":"italtile-the-glen","title":"Italtile The Glen","image":"store\/the-glen-5c98951a87820.jpg","manager":"Henry Preston ","telephone":"011 027 7900","telephone_alternative":"086 623 3683","cellphone":null,"email":"prestonh@italtile.co.za","description":null,"address_line1":"6 Skukusa Road, Gleneagles, Johannesburg","address_line2":null,"address_comment":null,"city":"Johannesburg","region_id":"610","country_id":"ZA","longitude":"28.04912","latitude":" -26.270794","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I918","store_contact_primary":"#","store_contact_primary_rep_code":"5018","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5pm","hours_tue":"8:30am - 5pm","hours_wed":"8am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-06-29 16:44:58","updated_at":"2024-12-03 10:42:16","warehouse_email":"Mothoaj@italtile.co.za","primary_image":"vectra_storefinder\/image\/The-Glen.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_21 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-the-glen"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Northriding.jpg"
+                                                     alt="Italtile Northriding" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Northriding                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Corner Witkoppen and, Malibongwe Dr, Hoogland, Randburg                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_22 = JSON.parse('{"id":"22","slug":"italtile-northriding","title":"Italtile Northriding","image":"\/wysiwyg\/showrooms\/IMG_0914.JPG","manager":"Nomathamba Ndlovu","telephone":"011 704 1104","telephone_alternative":"086 508 1743","cellphone":null,"email":"ndlovun@italtile.co.za","description":null,"address_line1":"Corner Witkoppen and, Malibongwe Dr, Hoogland, Randburg","address_line2":null,"address_comment":null,"city":"Northriding","region_id":"610","country_id":"ZA","longitude":"27.955387","latitude":" -26.04053","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I919","store_contact_primary":"#","store_contact_primary_rep_code":"6547","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-01-06 13:49:54","updated_at":"2024-12-03 10:44:02","warehouse_email":"ndlovuj@italtile.co.za","primary_image":"vectra_storefinder\/image\/Northriding.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_22 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-northriding"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile-Waterfall.jpg"
+                                                     alt="Italtile Waterfall" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Waterfall                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    1 Tugela Drive, Waterfall Logistics Precinct, Midrand                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_23 = JSON.parse('{"id":"23","slug":"italtile-waterfall","title":"Italtile Waterfall","image":"store\/waterfall-57cd6146d0ca3.jpg","manager":"Thabisile Mathe","telephone":"011 517 2510","telephone_alternative":null,"cellphone":null,"email":"italtilewfbm@italtile.co.za","description":null,"address_line1":"1 Tugela Drive, Waterfall Logistics Precinct, Midrand","address_line2":null,"address_comment":null,"city":"Midrand","region_id":"610","country_id":"ZA","longitude":"28.112612","latitude":" -26.024019","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I920","store_contact_primary":"#","store_contact_primary_rep_code":"6867","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5:30pm","hours_tue":"8am - 5:30pm","hours_wed":"8:30am - 5:30pm","hours_thu":"8am - 5:30pm","hours_fri":"8am - 5:30pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-01-06 13:50:12","updated_at":"2024-12-03 10:38:37","warehouse_email":"mogashoaa@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile-Waterfall.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_23 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-waterfall"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile_Clearwater.jpg"
+                                                     alt="Italtile Clearwater" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Clearwater                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Corner Hendrik Potgieter and, Jim Fouché Rd, Allen's Nek, Roodepoort                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_30 = JSON.parse('{"id":"30","slug":"italtile-clearwater","title":"Italtile Clearwater","image":"store\/italtile-clearwater-5c657610b3724.jpg","manager":"Mark Pillay","telephone":"010 271 3005","telephone_alternative":null,"cellphone":null,"email":"italcwbm@italtile.co.za","description":null,"address_line1":"Corner Hendrik Potgieter and, Jim Fouch\u00e9 Rd, Allen\'s Nek, Roodepoort","address_line2":null,"address_comment":null,"city":"Roodepoort","region_id":"610","country_id":"ZA","longitude":"27.9146234","latitude":" -26.1328084","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I922","store_contact_primary":"#","store_contact_primary_rep_code":"8784","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-05-28 09:47:49","updated_at":"2024-12-03 11:07:02","warehouse_email":"nzulaa@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile_Clearwater.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_30 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-clearwater"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                            <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                KwaZulu-Natal                                <span>
+                        1  Store                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/UMHLANGA.jpg"
+                                                     alt="Italtile Umhlanga" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Umhlanga                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    7 Tetford Circle, Somerset Park, Durban                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_18 = JSON.parse('{"id":"18","slug":"italtile-umhlanga","title":"Italtile Umhlanga","image":"wysiwyg\/UMHLANGA.jpg","manager":"Neeta Singh","telephone":"031 566 5069","telephone_alternative":"031 566 5090","cellphone":null,"email":"Italumgbm@italtile.co.za","description":null,"address_line1":"7 Tetford Circle, Somerset Park, Durban","address_line2":null,"address_comment":null,"city":"Umhlanga","region_id":"612","country_id":"ZA","longitude":"31.059375","latitude":" -29.726404","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I913","store_contact_primary":"#","store_contact_primary_rep_code":"5013","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-01-06 13:48:42","updated_at":"2024-12-03 10:41:37","warehouse_email":"khuzwayop@italtile.co.za","primary_image":"vectra_storefinder\/image\/UMHLANGA.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_18 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-umhlanga"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                            <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Limpopo                                <span>
+                        1  Store                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile_Polokwane.jpg"
+                                                     alt="Italtile Polokwane" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Polokwane                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    7 Marlothii Street, Baobab Gardens, Munnik Avenue, Thornhill, Polokwane                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_29 = JSON.parse('{"id":"29","slug":"italtile-polokwane","title":"Italtile Polokwane","image":"store\/polokwane-5bf3c517af808.jpg","manager":"Awilla Mulaudzi ","telephone":"015 690 0996 ","telephone_alternative":null,"cellphone":null,"email":"italtileplkbm@italtile.co.za","description":null,"address_line1":"7 Marlothii Street, Baobab Gardens, Munnik Avenue, Thornhill, Polokwane","address_line2":null,"address_comment":null,"city":"Polokwane","region_id":"613","country_id":"ZA","longitude":"29.497852","latitude":" -23.885281","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I921","store_contact_primary":"#","store_contact_primary_rep_code":"7857","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5:30pm","hours_tue":"8am - 5:30pm","hours_wed":"8:30am - 5:30pm","hours_thu":"8am - 5:30pm","hours_fri":"8am - 5:30pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-02-14 16:49:32","updated_at":"2024-12-03 11:04:30","warehouse_email":"malopet@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile_Polokwane.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_29 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-polokwane"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                            <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Mpumalanga                                <span>
+                        1  Store                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile_Nelspruit.jpg"
+                                                     alt="Italtile Nelspruit" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Nelspruit                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Oewer Street Corner and Eastern Boulevard, R40, Riverside Park, Mbombela                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_19 = JSON.parse('{"id":"19","slug":"italtile-nelspruit","title":"Italtile Nelspruit","image":"wysiwyg\/showrooms\/ITALTILE-NELSPRUIT_1.JPG","manager":"Miranda Ngutshani","telephone":"013 752 8333","telephone_alternative":"013 735 3362","cellphone":null,"email":"italnspbm@italtile.co.za","description":null,"address_line1":"Oewer Street Corner and Eastern Boulevard, R40, Riverside Park, Mbombela","address_line2":null,"address_comment":null,"city":"Nelspruit","region_id":"614","country_id":"ZA","longitude":"30.964678","latitude":" -25.434826","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I914","store_contact_primary":"#","store_contact_primary_rep_code":"5014","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5pm","hours_tue":"8:30am - 5pm","hours_wed":"8am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-07-01 09:21:06","updated_at":"2024-12-03 11:05:14","warehouse_email":"mnisib@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile_Nelspruit.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_19 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-nelspruit"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                            <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Western Cape                                <span>
+                        3   Stores                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/SSW1.jpg"
+                                                     alt="Italtile Somerset West " class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Somerset West                                                 </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Cnr N2 and R44, next to Somerset Mall, Firgrove Rural, Cape Town                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_17 = JSON.parse('{"id":"17","slug":"italtile-somerset-west","title":"Italtile Somerset West ","image":"store\/somerset-west-580e1c5a19df3.jpg","manager":"Cindy Field","telephone":"021 851 2170","telephone_alternative":"021 852 7790","cellphone":null,"email":"italtilesswbm@italtile.co.za","description":null,"address_line1":"Cnr N2 and R44, next to Somerset Mall, Firgrove Rural, Cape Town","address_line2":null,"address_comment":null,"city":"Somerset West","region_id":"617","country_id":"ZA","longitude":"18.821504","latitude":" -34.078742","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I915","store_contact_primary":"#","store_contact_primary_rep_code":"5015","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"1","visible":"1","visible_in_checkout":"1","created_at":"2019-01-06 13:48:19","updated_at":"2024-12-03 10:42:50","warehouse_email":"sswwarehouse@italtile.co.za","primary_image":"vectra_storefinder\/image\/SSW1.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_17 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-somerset-west"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/George.jpg"
+                                                     alt="Italtile George" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile George                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Shop 20, Eden Meander Lifestyle Centre, Knysna Road, George                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_38 = JSON.parse('{"id":"38","slug":"italtile-george","title":"Italtile George","image":null,"manager":"Renier Labuschagne","telephone":"044 285 0141","telephone_alternative":null,"cellphone":null,"email":"labuschagner@italtile.co.za","description":null,"address_line1":"Shop 20, Eden Meander Lifestyle Centre, Knysna Road, George","address_line2":null,"address_comment":null,"city":"George","region_id":"617","country_id":"ZA","longitude":"22.498979515340757","latitude":"-33.98202461968821","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":null,"store_code":"IF12","store_contact_primary":"#","store_contact_primary_rep_code":"10982","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"9am - 4pm","hours_sun":"9am - 2pm","hours_pub":"9am - 2pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"0","visible":"1","visible_in_checkout":"1","created_at":"2021-06-03 15:51:22","updated_at":"2024-12-03 11:05:50","warehouse_email":"modibaj@italtile.co.za","primary_image":"vectra_storefinder\/image\/George.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_38 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-george"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/New_Look_Cape_Town_Showroom.png"
+                                                     alt="Italtile Cape Town" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Cape Town                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Northgate Estate, Gold Street, Brooklyn, Cape Town                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_41 = JSON.parse('{"id":"41","slug":"italtile-cape-town","title":"Italtile Cape Town","image":null,"manager":"Moegamat Bassardien","telephone":"021 510 7766","telephone_alternative":"021 510 7788","cellphone":null,"email":"italctnbm@italtile.co.za","description":null,"address_line1":"Northgate Estate, Gold Street, Brooklyn, Cape Town","address_line2":null,"address_comment":null,"city":"Cape Town","region_id":"617","country_id":"ZA","longitude":"18.487994","latitude":"-33.915372","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":null,"store_code":"I917","store_contact_primary":"#","store_contact_primary_rep_code":"5017","sap_sync":"1","website":"1","is_supplier":"0","store_config_id":null,"hours_default":"8am - 5pm","hours_mon":"8am - 5pm","hours_tue":"8am - 5pm","hours_wed":"8:30am - 5pm","hours_thu":"8am - 5pm","hours_fri":"8am - 5pm","hours_sat":"8am - 4pm","hours_sun":"9am - 2pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"0","visible":"1","visible_in_checkout":"1","created_at":"2024-08-29 14:26:52","updated_at":"2024-12-03 11:15:06","warehouse_email":"mgwabal@italtile.co.za","primary_image":"vectra_storefinder\/image\/New_Look_Cape_Town_Showroom.png","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"1","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_41 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-cape-town"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                            </div>
+                    <div class="accordion">
+                <h3> Botswana </h3>
+                                                                                                <div class="accordion__province row">
+                        <div class="accordion__province__name">
+                            <h6>
+                                Gaborone                                <span>
+                        2   Stores                        </span>
+                            </h6>
+                        </div>
+                        <div class="accordion__province__stores">
+                            <div class="stores__container">
+
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Italtile-Gaborone.jpg"
+                                                     alt="Italtile Gaborone" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Gaborone                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Plot 77806, Block 10, A1 Road, Setlhoa                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_32 = JSON.parse('{"id":"32","slug":"italtile-gaborone","title":"Italtile Gaborone","image":null,"manager":"Thabiso Mophuting","telephone":"+267 396 2019, +26773 028\u00a0022","telephone_alternative":"2 673 975 578","cellphone":null,"email":"mophutingt@italtile.co.za","description":null,"address_line1":"Plot 77806, Block 10, A1 Road, Setlhoa","address_line2":null,"address_comment":null,"city":"Gaborone","region_id":"619","country_id":"BW","longitude":"25.936917","latitude":" -24.603056","sales_org_store_code":"NA","store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":"NA","store_code":"I940","store_contact_primary":"#","store_contact_primary_rep_code":"8968","sap_sync":"0","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 6pm","hours_tue":"8am - 6pm","hours_wed":"8:30am - 6pm","hours_thu":"8am - 6pm","hours_fri":"8am - 6pm","hours_sat":"8am - 4pm","hours_sun":"9am - 1pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"0","visible":"1","visible_in_checkout":"0","created_at":"2020-01-10 10:20:44","updated_at":"2024-12-06 11:41:01","warehouse_email":"italgabdispatch@italtile.co.za","primary_image":"vectra_storefinder\/image\/Italtile-Gaborone.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"0","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_32 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-gaborone"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                                    <div class="store col-sm-12 col-lg-6">
+                                                                                    <div class="store__image">
+                                            <img src="https://www.italtile.co.za/api/vectra_storefinder/image/Botswana-Warehouse-Entrance.jpg"
+                                                     alt="Italtile Gaborone Warehouse" class="cover-fit"/>
+                                            </div>
+                                                                                <div class="store__text">
+                                            <div class="store__text__name">
+                                                <h3>
+                                                    Italtile Gaborone Warehouse                                                </h3>
+                                            </div>
+                                            <div class="store__text__location">
+                                                <p>
+                                                    Unit 2, Plot 50675, Sebele                                                </p>
+                                            </div>
+                                            <div class="store__text__hours"  >
+                                                <p data-bind="text: daysOfTheWeek[today]" class="hours__day">
+                                                </p>
+                                                <script>
+                                                let region_40 = JSON.parse('{"id":"40","slug":"italtile-gaborone-warehouse","title":"Italtile Gaborone Warehouse","image":null,"manager":null,"telephone":"+267 73 029 168","telephone_alternative":null,"cellphone":null,"email":"italgabdispatch@italtile.co.za","description":null,"address_line1":"Unit 2, Plot 50675, Sebele","address_line2":null,"address_comment":null,"city":"Gaborone","region_id":"619","country_id":"BW","longitude":"25.929595","latitude":"-24.608981","sales_org_store_code":null,"store_contact_secondary_rep_code":null,"store_contact_secondary":null,"master_code":null,"store_code":"I940","store_contact_primary":null,"store_contact_primary_rep_code":null,"sap_sync":"0","website":"1","is_supplier":"0","store_config_id":null,"hours_default":null,"hours_mon":"8am - 6pm","hours_tue":"8am - 6pm","hours_wed":"8:30am - 6pm","hours_thu":"8am - 6pm","hours_fri":"8am - 6pm","hours_sat":"8am - 4pm","hours_sun":"9am - 1pm","hours_pub":"8am - 4pm","closed_mon":"0","closed_tue":"0","closed_wed":"0","closed_thu":"0","closed_fri":"0","closed_sat":"0","closed_sun":"0","closed_pub":"0","status":"0","visible":"1","visible_in_checkout":"0","created_at":"2024-02-16 09:53:55","updated_at":"2024-08-15 13:22:15","warehouse_email":null,"primary_image":"vectra_storefinder\/image\/Botswana-Warehouse-Entrance.jpg","url_rewrite_id":null,"website_id":"1","visible_on_stock_check":"0","website_url":null}');
+                                                </script>
+                                                <p class="hours__times" data-bind="text : getWorkingHours(daysOfTheWeek[today] , region_40 )" >
+                                                </p>
+                                            </div>
+                                            <div class="store__text__cta">
+                                                <a href="/storefinder/store/italtile-gaborone-warehouse"
+                                                   class="button button--normal">
+                                                    View Now
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                                                                                                                                </div>
+            </div>
