@@ -12,9 +12,11 @@ def extract_json_objects(script_content):
     json_objects = []
     for _, match in matches:
         try:
-            json_objects.append(json.loads(match))  # Parse JSON string and append
+            # Clean up the JSON string (remove extra spaces, newlines, etc.)
+            cleaned_match = match.replace("\\", "").strip()
+            json_objects.append(json.loads(cleaned_match))  # Parse JSON string and append
         except json.JSONDecodeError as e:
-            print(f"Failed to decode JSON: {match}\nError: {e}")
+            print(f"Failed to decode JSON: {cleaned_match}\nError: {e}")
     
     return json_objects
 
@@ -26,31 +28,39 @@ def write_json_to_csv(json_data, output_file):
         print("No data to write to CSV.")
         return
 
-    headers = list(json_data[0].keys())  # Use keys from the first JSON object as headers
+    # Use keys from the first JSON object as headers
+    headers = list(json_data[0].keys())
     
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.DictWriter(csvfile, fieldnames=headers)
         csvwriter.writeheader()
-        csvwriter.writerows(json_data)
+        for row in json_data:
+            # Ensure all keys are present in the row, even if some are missing in the JSON
+            row = {key: row.get(key, "") for key in headers}
+            csvwriter.writerow(row)
 
-def process_script_to_csv(script_content, output_file):
+def process_script_to_csv(input_file, output_file):
     """
-    Extracts JSON objects from a script and writes them to a CSV file.
+    Reads script content from a file, extracts JSON objects, and writes them to a CSV file.
     """
+    # Read the content from the input file
+    with open(input_file, 'r', encoding='utf-8') as file:
+        script_content = file.read()
+
+    # Extract JSON objects from the script content
     json_objects = extract_json_objects(script_content)
+
+    # Write JSON objects to the CSV file
     write_json_to_csv(json_objects, output_file)
 
 # Example Usage
 if __name__ == "__main__":
-    # Your HTML content containing JSON.parse()
-    script_content = """
-        let region_39 = JSON.parse('{"id":"39","slug":"italtile-walmer","title":"Italtile Walmer","manager":"Johan Kemper","telephone":"041 612 0202","address_line1":"Corner Martin Road & 17th Avenue, Springfield, Gqeberha","city":"Gqeberha","longitude":"25.553106900296235","latitude":"-33.9837497645373","hours_mon":"8am - 5pm"}');
-        let region_14 = JSON.parse('{"id":"14","slug":"italtile-boksburg","title":"Italtile Boksburg","manager":"Marku Gouws","telephone":"011 255 1060","address_line1":"Corner North Rand and Trichardt Road, Beyers Park, Boksburg","city":"Boksburg","longitude":"28.25489357301113","latitude":"-26.17841956297405","hours_mon":"8am - 5pm"}');
-    """
-    
+    # Input file containing the script content
+    input_file = "Italtile\Italtile.txt"  # Replace with the path to your file
+
     # Output CSV file
     output_csv_file = 'output.csv'
 
     # Process the script and write the JSON objects to CSV
-    process_script_to_csv(script_content, output_csv_file)
+    process_script_to_csv(input_file, output_csv_file)
     print(f"Data written to {output_csv_file}")

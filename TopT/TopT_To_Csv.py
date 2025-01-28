@@ -1,110 +1,46 @@
-
-# import re
-# import json
-
-# def extract_json_objects_from_script(script_content):
-#     # Regex to match JSON inside JSON.parse('...') or JSON.parse("...") or JSON.parse(`...`)
-#     json_pattern = re.compile(r"JSON\.parse\((['`\"])(.*?)\1\);", re.DOTALL)
-    
-#     matches = json_pattern.findall(script_content)  # Finds all matches
-    
-#     json_objects = []
-#     for _, match in matches:
-#         try:
-#             # Parse each JSON string and append it to the list
-#             json_data = json.loads(match)
-#             json_objects.append(json_data)
-#         except json.JSONDecodeError as e:
-#             print(f"Failed to decode JSON: {match}\nError: {e}")
-    
-#     return json_objects
-
-
-
-
-
-# # Step 1: Extract headers (keys from the first dictionary)
-# headers = data[0].keys()
-
-# # Step 2: Write to a CSV file
-# with open('output.csv', 'w', newline='', encoding='utf-8') as csvfile:
-#     csvwriter = csv.writer(csvfile)
-#     csvwriter.writerow(headers)  # Write headers
-#     for row in data:
-#         csvwriter.writerow([row[key] for key in headers])  # Write values
-
-
-
-
-
-import re
 import json
 import csv
+import re
 
-def extract_json_objects(script_content):
-    """
-    Extracts JSON objects from a script's content using regex.
-    
-    Parameters:
-        script_content (str): The input script content containing JSON.parse().
-    
-    Returns:
-        list: A list of parsed JSON objects.
-    """
-    # Regex to match JSON inside JSON.parse('...') or JSON.parse("...") or JSON.parse(`...`)
-    json_pattern = re.compile(r"JSON\.parse\((['`\"])(.*?)\1\);", re.DOTALL)
-    matches = json_pattern.findall(script_content)
+# File path
+file_path = r"TopT\TopT.txt"
 
-    json_objects = []
-    for _, match in matches:
-        try:
-            json_objects.append(json.loads(match))  # Parse JSON string and append
-        except json.JSONDecodeError as e:
-            print(f"Failed to decode JSON: {match}\nError: {e}")
-    
-    return json_objects
+# Open and read the file
+with open(file_path, 'r', encoding='utf-8') as file:
+    data = file.read()
 
+# Regex pattern to extract JSON data
+json_pattern = r'let region_\d+ = JSON\.parse\(`(.*?)`\);'
 
-def write_json_to_csv(json_data, output_file):
-    """
-    Writes a list of JSON objects to a CSV file.
-    
-    Parameters:
-        json_data (list): A list of dictionaries (JSON objects).
-        output_file (str): The output CSV file path.
-    """
-    if not json_data:
-        print("No data to write to CSV.")
-        return
+# Extract JSON data using regex
+json_data_matches = re.findall(json_pattern, data)
 
-    headers = json_data[0].keys()  # Extract headers (keys from the first JSON object)
-    
-    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(headers)  # Write headers
-        for row in json_data:
-            csvwriter.writerow([row[key] for key in headers])  # Write values
+# Parse JSON data
+json_data = [json.loads(match) for match in json_data_matches]
 
+# Save parsed data to CSV
+output_file = "parsed_stores.csv"
+with open(output_file, mode='w', encoding='utf-8', newline='') as csv_file:
+    # Fields based on the JSON structure
+    fieldnames = ["ID", "Slug", "Title", "Manager", "Telephone", "City", "Address Line 1", "Address Line 2", "Email", "Store Code", "Website", "Hours"]
+    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    writer.writeheader()
 
-def process_script_to_csv(script_content, output_file):
-    """
-    Extracts JSON objects from a script and writes them to a CSV file.
-    
-    Parameters:
-        script_content (str): The script content containing JSON.parse() calls.
-        output_file (str): The output CSV file path.
-    """
-    json_objects = extract_json_objects(script_content)
-    write_json_to_csv(json_objects, output_file)
+    # Loop through JSON entries and write to CSV
+    for entry in json_data:
+        writer.writerow({
+            "ID": entry.get("id", "Unknown"),
+            "Slug": entry.get("slug", "Unknown"),
+            "Title": entry.get("title", "Unknown"),
+            "Manager": entry.get("manager", "Unknown"),
+            "Telephone": entry.get("telephone", "Unknown"),
+            "City": entry.get("city", "Unknown"),
+            "Address Line 1": entry.get("address_line1", "Unknown"),
+            "Address Line 2": entry.get("address_line2", "Unknown"),
+            "Email": entry.get("email", "Unknown"),
+            "Store Code": entry.get("store_code", "Unknown"),
+            "Website": entry.get("website", "Unknown"),
+            "Hours": entry.get("hours_default", "Unknown"),
+        })
 
-
-# Example Usage
-if __name__ == "__main__":
-    # Example script content
-    script_content = """
-        JSON.parse('{"name": "John", "age": 30, "city": "New York"}');
-        JSON.parse('{"name": "Jane", "age": 25, "city": "San Francisco"}');
-    """
-    
-    # Process script and write JSON objects to CSV
-    process_script_to_csv(script_content, 'output.csv')
+print(f"Data saved to {output_file}")

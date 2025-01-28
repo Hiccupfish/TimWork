@@ -1,0 +1,505 @@
+ AdditionalInfo,Address,City,CountryId,Email,Id,Latitude,Longitude,Phone,Phone2,Phone3,Point,StateProvinceId,StoreId,StoreLocatorName,ZipCode,TradingMonFri,TradingSat,TradingSunPub
+NULL,86 Hibernia Street George  ,George,73,NULL,0205,-33.95920482,22.45799055,043 054 0412,,,George,84,Lewis Stores,George,6530,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 7, Ratsoma Shp Cntr The farm Battle 519 KS Tshehlwaneng Village Magnet Heights",Magnet Heights,73,NULL,1152,-24.790097,29.973827,013 007 9290,,,Magnet Heights,80,Lewis Stores,Magnet Heights,1435,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,192 Murchison Street Ladysmith  ,Ladysmith  Natal,73,NULL,0410,-28.558841,29.781673,036 514 0103,,,Ladysmith  Natal,79,Lewis Stores,Ladysmith  Natal,3370,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 7 Namica Shopping Centre Okuryangava Namibia,Okuryangava,182,NULL,1153,-22.51104,17.05001,00264 6122 2081,00264 6140 1860,00264 6125 9604,Okuryangava,False,Lewis Stores,Okuryangava,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,12c Market Street Vereeniging  ,Vereeniging,73,NULL,0525,-26.674693,27.930585,021 000 3350,,,Vereeniging,78,Lewis Stores,Vereeniging,1939,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,250B Church Street Vryheid ,Vryheid,73,NULL,1094,-27.76601847,30.79920337,034 108 6026,,,Vryheid,79,Lewis Stores,Vryheid,3100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No13 NONGOMA SHOPPING CENTRE MAIN ROAD NONGOMA,NONGOMA,73,NULL,1143,-27.91673473,31.64634885,035 514 0142,,,NONGOMA,79,Lewis Stores,NONGOMA,3950,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop no 52 Tshilamba Retail Centre Thengwe Road Tshilamba,Tshilamba,73,NULL,1144,-22.743473,30.53169,015 007 9481,,,Tshilamba,80,Lewis Stores,Tshilamba,0956,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 18 Morone Shng Cnt Dirk Winterbach Street Burgersfort ,Burgersfort,73,NULL,1145,-24.672136,30.330527,013 007 9023,,,Burgersfort,81,Lewis Stores,Burgersfort,1150,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,"Block E8, Watergate Cnt Cnr R300 & AZ Berman Dri Mitchells Plain ",Mitchells Plain,73,NULL,1146,-34.018875,18.60957,021 054 5169,,,Mitchells Plain,84,Lewis Stores,Mitchells Plain,7785,08:00 - 18:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop 12 (C) Buhleni Shopping Centre Buhleni ,Buhleni,219,NULL,1147,-25.925492,31.508892,00268 243 16904,00268 243 16653,,Buhleni,False,Lewis Stores,Buhleni,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Hidipo Hamutenya Street Karibib Namibia ,Karibib,182,NULL,1149,-21.93708132,15.85322039,00264 6455 0669,00264 6455 0630,00264 6455 0655,Karibib,False,Lewis Stores,Karibib,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 8B Bloch's Centre 18 Van Riebeek Road Kraaifontein,Kraaifontein,73,NULL,0105,-33.8525236,18.7233099,021 054 2575,,,Kraaifontein,84,Lewis Stores,Kraaifontein,7570,08:00 - 17:30,08:00 - 13:00,CLOSED
+NULL,182 Voortrekker Road Parow  ,Parow,73,NULL,0107,-33.906137,18.585721,021 054 2574,,,Parow,84,Lewis Stores,Parow,7500,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,143b Voortrekker Road Bellville  ,Bellville,73,NULL,0108,-33.901006,18.628926,,021 054 8561,,Bellville,84,Lewis Stores,Bellville,7530,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,11 Piet Retief Street Malmesbury  ,Malmesbury,73,NULL,0109,-33.461752,18.730781,022 108 5002,,,Malmesbury,84,Lewis Stores,Malmesbury,7299,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Wynberg Centre cnr Main & Piers Roads Wynberg ,Wynberg Withinshaw,73,NULL,0110,-34.00674846,18.46931625,021 054 2573,,,Wynberg Withinshaw,84,Lewis Stores,Wynberg Withinshaw,7800,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 2b, Shoprite Cntr Cnr Berg River & Van der Lingen Street Paarl",Paarl,73,NULL,0112,-33.732718,18.969393,021 054 2561,,,Paarl,84,Lewis Stores,Paarl,7646,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,46 Donkin Street Beaufort West  ,Beaufort West,73,NULL,0113,-32.34786578,22.58226845,023 108 5170,,,Beaufort West,84,Lewis Stores,Beaufort West,6970,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,23 Bath Street Montagu  ,Montagu,73,NULL,0115,-33.786783,20.120916,023 108 5172,,,Montagu,84,Lewis Stores,Montagu,6720,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,69 Voortrekker Street Ceres  ,Ceres,73,NULL,0117,-33.36956,19.309786,023 108 5171,,,Ceres,84,Lewis Stores,Ceres,6835,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Long & Main Street Knysna  ,Knysna,73,NULL,0122,-34.03574299,23.0491084,044 514 0007,,,Knysna,84,Lewis Stores,Knysna,6570,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,12 Plein Street Caledon  ,Caledon,73,NULL,0123,-34.233292,19.428652,028 054 0058,,,Caledon,84,Lewis Stores,Caledon,7230,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Swart Street Heidelberg  ,Heidelberg  Cape,73,NULL,0124,-34.09031764,20.9566402,028 054 0057,,,Heidelberg  Cape,84,Lewis Stores,Heidelberg  Cape,6665,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,39 van Riebeek Street Ladismith  ,Ladismith  Cape,73,NULL,0125,-33.49401782,21.27036261,028 054 0059,,,Ladismith  Cape,84,Lewis Stores,Ladismith  Cape,6655,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Hoof Street Keimoes  ,Keimoes,73,NULL,0127,-28.711171,20.979248,054 109 9021,,,Keimoes,82,Lewis Stores,Keimoes,8860,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Saldanha Winkels Main Street Saldanha Bay ,Saldanha Bay,73,NULL,0128,-33.008342,17.945222,022 108 5015,,,Saldanha Bay,84,Lewis Stores,Saldanha Bay,7395,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,65 Church Street Prince Albert  ,Prince Albert,73,NULL,0129,-33.22362209,22.02962418,023 108 5167,,,Prince Albert,84,Lewis Stores,Prince Albert,6930,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,92 Voortrekker Street Swellendam  ,Swellendam,73,NULL,0131,-34.021275,20.442968,021 005 4568,,,Swellendam,84,Lewis Stores,Swellendam,6740,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,23 Kerk Street Bredasdorp  ,Bredasdorp,73,NULL,0132,-34.5339455,20.04015647,028 054 0055,,,Bredasdorp,84,Lewis Stores,Bredasdorp,7280,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,60 Church Street Victoria West  ,Victoria West,73,NULL,0133,-31.4036843,23.11231988,053 108 5041,,,Victoria West,82,Lewis Stores,Victoria West,7070,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Voortrekker & Loop St Springbok  ,Springbok,73,NULL,0134,-29.66813,17.88284,027 054 0105,,,Springbok,82,Lewis Stores,Springbok,8240,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,3 Main Street Riversdale  ,Riversdale,73,NULL,0135,-34.092189,21.262175,028 054 0056,,,Riversdale,84,Lewis Stores,Riversdale,6770,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shops F12 & F13 Station Plaza Shopping 7th Avenue Town Centre Mitchells Plain,Mitchells Plain,73,NULL,0136,-34.05040304,18.61954009,021 005 4537,,,Mitchells Plain,84,Lewis Stores,Mitchells Plain,7785,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,52 Church Street Colesberg  ,Colesberg,73,NULL,0137,-30.718906,25.098616,051 054 5279,,,Colesberg,82,Lewis Stores,Colesberg,9795,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,99 Main Road Somerset West  ,Somerset West,73,NULL,0138,-34.08591375,18.85253754,021 054 4430,,,Somerset West,84,Lewis Stores,Somerset West,7130,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,5 Hope Street Calvinia  ,Calvinia,73,NULL,0139,-31.474936,19.775942,027 054 0103,,,Calvinia,82,Lewis Stores,Calvinia,8190,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,45 Long Street Moorreesburg  ,Moorreesburg,73,NULL,0141,-33.155425,18.664186,022 108 5009,,,Moorreesburg,84,Lewis Stores,Moorreesburg,7310,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,12 Stewart Street Prieska  ,Prieska,73,NULL,0142,-29.665028,22.747944,053 108 5039,,,Prieska,82,Lewis Stores,Prieska,8940,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,7 Keerom Street Grabouw  ,Grabouw,73,NULL,0144,-34.15177548,19.02220996,021 054 4449,,,Grabouw,84,Lewis Stores,Grabouw,7160,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,27 Market Street Strand  ,Strand,73,NULL,0145,-34.11595256,18.82803978,021 054 4491,,,Strand,84,Lewis Stores,Strand,7140,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Alheit Street Carnarvon  ,Carnarvon,73,NULL,0146,-30.96659386,22.1292725,016 514 0141,,,Carnarvon,82,Lewis Stores,Carnarvon,8925,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Landbou Huis 45 Church Street Piketberg ,Piketberg,73,NULL,0147,-32.905773,18.756903,022 108 5014,,,Piketberg,84,Lewis Stores,Piketberg,7320,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32 Voortrekker Street Springbok  ,Springbok,73,NULL,0149,-29.665133,17.885049,027 054 0104,,,Springbok,82,Lewis Stores,Springbok,8240,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,17 Church Street Wellington  ,Wellington,73,NULL,0152,-33.640114,19.00722,021 005 4503,,,Wellington,84,Lewis Stores,Wellington,7655,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,16 Kerk Street Robertson  ,Robertson,73,NULL,0154,-33.805875,19.884384,023 108 5162,,,Robertson,84,Lewis Stores,Robertson,6705,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,43c Main Road Vredenburg  ,Vredenburg,73,NULL,0155,-32.906492,17.994155,022 108 5016,,,Vredenburg,84,Lewis Stores,Vredenburg,7380,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1 Beyershof Building Beyers Street Stellenbosch,Stellenbosch,73,NULL,0156,-33.934282,18.859052,021 005 4552,,,Stellenbosch,84,Lewis Stores,Stellenbosch,7600,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shops L55 & 56 Cleary Park Shop Cntr Stanford Road Port Elizabeth,Cleary Park,73,NULL,0159,-33.89443091,25.5274635,041 054 5494,,,Cleary Park,76,Lewis Stores,Cleary Park,6059,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Kuils River Shop Centre 66 van Riebeek Road Kuils River ,Kuilsriver,73,NULL,0163,-33.92572511,18.67866948,021 054 0897,,,Kuilsriver,84,Lewis Stores,Kuilsriver,7580,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,22 Voortrekker Road Vredendal  ,Vredendal,73,NULL,0165,-31.66250156,18.50879961,028 054 0053,,,Vredendal,84,Lewis Stores,Vredendal,8160,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,47 Stockenstroom Street Worcester  ,Worcester,73,NULL,0166,-33.643392,19.447923,023 108 5165,,,Worcester,84,Lewis Stores,Worcester,6850,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Block A 147 Bahnhoff Street Rehoboth Namibia,Rehoboth,182,NULL,0167,-23.31910222,17.0778773,00264 6252 4221,00264 6252 4246,,Rehoboth,False,Lewis Stores,Rehoboth,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,73 Main Street Tsumeb Namibia ,Tsumeb,182,NULL,0168,-19.24307542,17.71500873,00264 6722 1567,00264 6722 1654,00264 6722 0753,Tsumeb,False,Lewis Stores,Tsumeb,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Drieboom Street Mariental Namibia ,Mariental,182,NULL,0169,-24.628097,17.960828,00264 6324 0418,00264 6324 0796,00264 6324 0728,Mariental,False,Lewis Stores,Mariental,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Old Klipfontein Road Athlone  ,Athlone,73,NULL,0170,-33.96145,18.504435,021 054 2572,,,Athlone,84,Lewis Stores,Athlone,7764,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,110 St Georges Street Simonstown  ,Simonstown,73,NULL,0175,-34.19348756,18.43250023,021 005 4538,,,Simonstown,84,Lewis Stores,Simonstown,7995,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,67d Adderley Street Worcester  ,Worcester,73,NULL,0177,-33.647127,19.444705,023 108 5161,,,Worcester,84,Lewis Stores,Worcester,6850,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,57 Bahnhoff Street Windhoek Namibia ,Windhoek,182,NULL,0180,-22.56084173,17.08223174,00264 6122 4641,00264 6122 4642,00264 6122 4643,Windhoek,False,Lewis Stores,Windhoek,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,78 Theo Ben Gurirab Str Walvis Bay Namibia ,Walvis Bay,182,NULL,0181,-22.9584326,14.50230224,00264 6420 5954,00264 6420 5955,00264 6420 5598,Walvis Bay,False,Lewis Stores,Walvis Bay,9190,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Erf 9495 Church Street Gobabis Namibia,Gobabis,182,NULL,0182,-22.44998844,18.97258349,00264 6256 2645,00264 6256 2166,00264 6256 4132,Gobabis,False,Lewis Stores,Gobabis,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,St Georges Street Otjiwarongo Namibia ,Otjiwarongo,182,NULL,0183,-20.45914117,16.65126578,0026467302556,00264 6730 2089,,Otjiwarongo,False,Lewis Stores,Otjiwarongo,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cnr TheoBen Guriab & Main Streets Usakos Namibia,Usakos,182,NULL,0185,-22.001094,15.586212,00264 6453 0330,00264 6453 0059,,Usakos,False,Lewis Stores,Usakos,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Gibeoner Road Keetmanshoop Namibia ,Keetmanshoop,182,NULL,0186,-26.577499,18.13254,00264 6322 3301,00264 6322 3302,,Keetmanshoop,False,Lewis Stores,Keetmanshoop,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,21 Hage Geingob Avenue Grootfontein Namibia ,Grootfontein,182,NULL,0187,-19.56397346,18.10284281,00264 6724 2505,00264 6724 2506,,Grootfontein,False,Lewis Stores,Grootfontein,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,81 Independence Avenue Windhoek Namibia ,Windhoek,182,NULL,0188,-22.571046,17.084781,00264 6124 0056,00264 6124 0034,00264 6124 0035,Windhoek,False,Lewis Stores,Windhoek,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,66 Martin Neibse Street Okahandja Namibia ,Okahandja,182,NULL,0189,-21.978937,16.915363,00264 6250 3440,00264 6250 3441,00264 6250 3430,Okahandja,False,Lewis Stores,Okahandja,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Bay Road Luderitz Namibia ,Luderitz,182,NULL,0191,-26.648518,15.154564,00264 6320 3960,00264 6320 4058,00264 6320 4064,Luderitz,False,Lewis Stores,Luderitz,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Abraham Maseco Street Katatura Windhoek Namibia,Katatura Windhoek,182,NULL,0192,-22.52020028,17.04610822,00264 6121 0113,00264 6121 0153,00264 6121 6727,Katatura Windhoek,False,Lewis Stores,Katatura Windhoek,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Ondangwa Namibia ,Ondangwa,182,NULL,0194,-17.9143812,15.98678192,00264 6524 0996,00264 6524 1001,00264 6524 0171,Ondangwa,False,Lewis Stores,Ondangwa,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cnr Nataniel Maxilili & Woermann Streets Swakopmund Namibia,Swakopmund,182,NULL,0195,-22.679123,14.52762,00264 6440 4515,00264 6440 3032,00264 6440 3558,Swakopmund,False,Lewis Stores,Swakopmund,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,58 Hibernia Street George  ,George,73,NULL,0201,-33.96067488,22.46076255,044 001 0407,,,George,84,Lewis Stores,George,6530,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no 6A Pier 14 Shopping Centre 444 Govan Mbeki Avenue Port Elizabeth,Port Elizabeth,73,NULL,0202,-33.95802746,25.61899632,041 054 5490,,,Port Elizabeth,76,Lewis Stores,Port Elizabeth,6001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,576580 Main Street Govan Mbeki Ave Northend Port Elizabeth,Port Elizabeth,73,NULL,0203,-33.94487505,25.60582035,041 054 5434,,,Port Elizabeth,76,Lewis Stores,Port Elizabeth,6001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,40 Market Street Uitenhage  ,Uitenhage,73,NULL,0204,-33.76871,25.39991,041 054 5437,,,Uitenhage,76,Lewis Stores,Uitenhage,6229,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,146 Oxford Street East London  ,East London,73,NULL,0207,-33.012968,27.902847,043 054 0435,,,East London,76,Lewis Stores,East London,5201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,68a High Street Oudtshoorn  ,Oudtshoorn,73,NULL,0208,-33.591463,22.205131,044 514 0009,,,Oudtshoorn,84,Lewis Stores,Oudtshoorn,6620,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32 Caledon Street Graaff Reinet  ,Graaffreinet,73,NULL,0209,-32.24864,24.53555,049 054 0101,,,Graaffreinet,76,Lewis Stores,Graaffreinet,6280,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,81 Marsh Street Mossel Bay  ,Mossel Bay,73,NULL,0210,-34.18247506,22.1444885,044 514 0019,,,Mossel Bay,84,Lewis Stores,Mossel Bay,6500,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,14 Charles Street Somerset East  ,Somerset East,73,NULL,0212,-32.71866,25.58847,042 054 0002,,,Somerset East,76,Lewis Stores,Somerset East,5850,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 7, Terminus Building Terminus Street East London ",East London,73,NULL,0213,-33.017802,27.902191,043 054 0417,,,East London,76,Lewis Stores,East London,5201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Cambridge & Ayliff St Kingwilliamstown  ,Kingwilliamstown,73,NULL,0214,-32.87981,27.3897,043 054 0439,,,Kingwilliamstown,76,Lewis Stores,Kingwilliamstown,5601,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,3234 High Street Grahamstown  ,Grahamstown,73,NULL,0215,-33.30966,26.52833,046 514 0101,,,Grahamstown,76,Lewis Stores,Grahamstown,6139,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,46 Cathcart Street Kingwilliamstown  ,Kingwilliamstown,73,NULL,0216,-32.878162,27.387786,043 642 1313,043 642 2248,,Kingwilliamstown,76,Lewis Stores,Kingwilliamstown,5601,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no2 4 Madeira Street Mthatha ,Mthatha,73,NULL,0218,-31.58873695,28.78872391,040 054 0702,,,Mthatha,76,Lewis Stores,Mthatha,5100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,57 Meintjies Street Middelburg  ,Middelburg  Cape,73,NULL,0220,-31.494186,25.006464,049 054 0100,,,Middelburg  Cape,76,Lewis Stores,Middelburg  Cape,5900,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Taylor Street Burgersdorp  ,Burgersdorp,73,NULL,0221,-30.995164,26.330083,051 054 5270,,,Burgersdorp,76,Lewis Stores,Burgersdorp,9744,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,3943 Campbell Street Fort Beaufort  ,Fort Beaufort,73,NULL,0223,-32.77863,26.63124,046 514 0100,,,Fort Beaufort,76,Lewis Stores,Fort Beaufort,5720,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,24 Frere Street Cradock  ,Cradock,73,NULL,0224,-32.169375,25.6189,048 054 0101,,,Cradock,76,Lewis Stores,Cradock,5880,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,75 Cathcart Street Queenstown  ,Queenstown,73,NULL,0225,-31.896311,26.872697,045 514 0031,,,Queenstown,76,Lewis Stores,Queenstown,5319,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,29a Main Street Despatch  ,Despatch,73,NULL,0226,-33.799094,25.466869,041 054 5485,,,Despatch,76,Lewis Stores,Despatch,6220,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,61 Main Street Humansdorp  ,Humansdorp,73,NULL,0227,-34.030167,24.770456,042 054 0001,,,Humansdorp,76,Lewis Stores,Humansdorp,6300,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,20 McClean Street Stutterheim  ,Stutterheim,73,NULL,0228,-32.568894,27.429201,043 054 0404,,,Stutterheim,76,Lewis Stores,Stutterheim,4930,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,9 Maclear Road Elliot  ,Elliot,73,NULL,0230,-31.334387,27.847995,045 514 0028,,,Elliot,76,Lewis Stores,Elliot,5460,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,33 Willow Street MacClear  ,Maclear,73,NULL,0231,-31.068922,28.349134,045 514 0030,,,Maclear,76,Lewis Stores,Maclear,5480,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Blythe & Sauer Sts Butterworth  ,Butterworth,73,NULL,0233,-32.333026,28.146341,047 108 5017,,,Butterworth,76,Lewis Stores,Butterworth,4960,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,61 Voortrekker Street Uniondale  ,Uniondale,73,NULL,0235,-33.659095,23.122987,044 752 1127,044 752 1197,,Uniondale,84,Lewis Stores,Uniondale,6460,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Church Street Steynsburg  ,Steynsburg,73,NULL,0237,-31.295129,25.82522,048 054 0100,,,Steynsburg,76,Lewis Stores,Steynsburg,5920,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,100 Long Street Matatiele  ,Matatiele,73,NULL,0238,-30.340936,28.806989,039 200 9102,,,Matatiele,79,Lewis Stores,Matatiele,4730,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Hankey  ,Hankey,73,NULL,0242,-33.83304266,24.88323283,042 054 0003,,,Hankey,76,Lewis Stores,Hankey,6350,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Harnekar's Building Cnr 4th Ave & Retreat Rd Retreat Cape Town,Retreat,73,NULL,0243,-34.05804851,18.47022944,021 054 9069,,,Retreat,84,Lewis Stores,Retreat,7945,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 16 Shoprite Park 262 Voortrekker Road Parow,Parow,73,NULL,0244,-33.906202,18.592614,021 054 2571,,,Parow,84,Lewis Stores,Parow,7500,09:00 - 18:00,09:00 - 14:00,09:00 - 13:00
+NULL,"Shop 301, Randburg Square Pretoria Avenue Ferndale Randburg",Randburg,73,NULL,0245,-26.093296,28.004813,010 510 9355,,,Randburg,78,Lewis Stores,Randburg,2194,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 22 Kanyamazane Shopping Centre Chris Hani Street Kanyamazane,Kanyamazane,73,NULL,0247,-25.466694,31.179387,013 007 9282,,,Kanyamazane,81,Lewis Stores,Kanyamazane,1214,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 44 Khayelitsha Shop C Julius Tsolo & Nomzomo St Khayelitsha,Khayelitsha,73,NULL,0248,-34.048402,18.672036,021 000 4323,,,Khayelitsha,84,Lewis Stores,Khayelitsha,7784,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop C1911 Lenasia Shop C Station Road Lenasia,Lenasia,73,NULL,0249,-26.317889,27.826665,010 510 9306,,,Lenasia,78,Lewis Stores,Lenasia,1827,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,KwaMashu Shopping Centre 300 Malendela Road KwaMashu ,Kwamashu,73,NULL,0250,-29.74682343,30.97571085,031 054 9633,,,Kwamashu,79,Lewis Stores,Kwamashu,4359,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,491497 Govan Mbeki Ave Port Elizabeth  ,Port Elizabeth,73,NULL,0251,-33.948719,25.607353,041 054 5484,,,Port Elizabeth,76,Lewis Stores,Port Elizabeth,6001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop G5 Mamelodi Crossing Cnr Watloo & Stormvlei Rd Mamelodi,Mamelodi,73,NULL,0252,-25.71535873,28.33308819,012 054 5103,,,Mamelodi,78,Lewis Stores,Mamelodi,0122,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop no3 Bushbuck Shopping Center Bushbuck Ridge ,Bushbuck Ridge,73,NULL,0253,-24.833938,31.070024,013 007 9281,,,Bushbuck Ridge,81,Lewis Stores,Bushbuck Ridge,0902,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 434445, Palm Sprin CO R551 & Falcon Rd Stretford Ext1 Orange Farm",Orange Farm,73,NULL,0254,-26.497471,27.84506,016 514 0154,,,Orange Farm,78,Lewis Stores,Orange Farm,1841,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop C7, Atlyn Shop Cnt Cnr Khoza, Phudufufu & Umkhombe Streets Atteridgeville Ext 25",Atteridgeville,73,NULL,0255,-25.7708762,28.09084812,012 054 5600,,,Atteridgeville,78,Lewis Stores,Atteridgeville,0008,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop 59 The Big Tree Shopping Mal Moloto ,Moloto,73,NULL,0256,-25.46321895,28.61908289,013 007 9286,,,Moloto,81,Lewis Stores,Moloto,1022,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,"Shop No 2,  Northern Cent Central Bus District Botshabelo ",Botshabello,73,NULL,0259,-29.230743,26.710165,051 054 5259,,,Botshabello,77,Lewis Stores,Botshabello,9781,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 8, Moutse Mall cnr R25 & Loskop Road Elandsdoorn Dennilton",Dennilton,73,NULL,0261,-25.28074,29.183788,013 007 9278,,,Dennilton,81,Lewis Stores,Dennilton,1030,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,"Shop No 5, Ricci's Place Cnr Rissik & Commissioner & Joubert Streets Johannesburg",Johannesburg,73,NULL,0262,-26.205217,28.043006,010 054 5018,,,Johannesburg,78,Lewis Stores,Johannesburg,2001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 21 Bochum Plaza Ext 3 Site No 364367&370 Bochum District ,Bochum,73,NULL,0263,-23.28654,29.138141,015 007 9220,,,Bochum,80,Lewis Stores,Bochum,0790,07:30 - 17:30,08:00 - 15:00,CLOSED
+NULL,Shop 14 Lepelle Crossings Erf 1BA Lebowakgomo,Lebowakgomo,73,NULL,0264,-24.314064,29.477232,015 007 9499,,,Lebowakgomo,80,Lewis Stores,Lebowakgomo,0902,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 31 Twin City Shop Cn Mankweng Turfloop Ext 1 Limpopo ,Mankweng,73,NULL,0265,-23.890459,29.70072,015 007 8222,,,Mankweng,81,Lewis Stores,Mankweng,0902,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 40 Moratiwa Crossing Situated on R579 Road Monsterlus,Monsterlus,73,NULL,0266,-25.008264,29.74534,013 007 9127,,,Monsterlus,80,Lewis Stores,Monsterlus,1057,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,"Shop 1, Yetu Centre Ongango Road Oshakati Namibia",Oshakati,182,NULL,0267,-17.78927,15.70588,00264 6522 4466,00264 6522 4449,00264 6522 4447,Oshakati,False,Lewis Stores,Oshakati,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 7 Elukwatini Crossing Main Street Elukwathi,Elukwatini,73,NULL,0268,-26.039312,30.792403,017 054 0240,,,Elukwatini,81,Lewis Stores,Elukwatini,1192,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop F04 Thabong Shopping Centre Erf 71165, Unit 10 ext 1 Sebokeng",Sebokeng,73,NULL,0269,-26.596443,27.848414,016 514 0133,,,Sebokeng,78,Lewis Stores,Sebokeng,1983,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,3  5 Gladstone Street East London  ,East London,73,NULL,0270,-33.01626,27.90315,043 054 0077,,,East London,76,Lewis Stores,East London,5201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,47 Beaufort Street Grahamstown  ,Grahamstown,73,NULL,0271,-33.31139,26.53205,046 514 0102,,,Grahamstown,76,Lewis Stores,Grahamstown,6139,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,91 Main Street Kokstad  ,Kokstad,73,NULL,0272,-30.5487,29.424963,039 200 9107,,,Kokstad,79,Lewis Stores,Kokstad,4700,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,63 Robinson Road South Queenstown  ,Queenstown,73,NULL,0274,-31.897613,26.869295,045 514 0026,,,Queenstown,76,Lewis Stores,Queenstown,5319,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2  CNA Building 61 Cathcart Street Kingwilliamstown ,Kingwilliamstown,73,NULL,0277,-32.87788,27.38957,043 054 0428,,,Kingwilliamstown,76,Lewis Stores,Kingwilliamstown,5601,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Garden Street Alice  ,Alice,73,NULL,0278,-32.78714,26.837014,087 109 2039,,,Alice,76,Lewis Stores,Alice,5700,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,93 St John's Street Oudtshoorn  ,Oudtshoorn,73,NULL,0281,-33.59109668,22.20574224,043 054 0425,,,Oudtshoorn,84,Lewis Stores,Oudtshoorn,6620,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,44 Grey Street Aliwal North  ,Aliwal North,73,NULL,0282,-30.690339,26.708076,051 054 5260,,,Aliwal North,76,Lewis Stores,Aliwal North,9750,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cnr  Station & Main Stre De Aar  ,De Aar,73,NULL,0283,-30.650758,24.012197,053 108 5052,,,De Aar,82,Lewis Stores,De Aar,7000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Voortrekker Street Alexandria  ,Alexandria,73,NULL,0285,-33.65361,26.40822,046 514 0104,,,Alexandria,76,Lewis Stores,Alexandria,6185,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Whittlesea  ,Whittlesea,73,NULL,0287,-32.18026,26.825249,040 054 0100,,,Whittlesea,76,Lewis Stores,Whittlesea,5360,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,99 Commercial Road Sidwell Port Elizabeth ,Port Elizabeth,73,NULL,0288,-33.919537,25.590136,041 054 5495,,,Port Elizabeth,76,Lewis Stores,Port Elizabeth,6001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop E8B10 Uitenhage Mal Market Street Uitenhage ,Uitenhage,73,NULL,0290,-33.77008278,25.39972351,041 054 5372,087 109 1357,,Uitenhage,76,Lewis Stores,Uitenhage,6229,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,1 Voortrekker Street Indwe  ,Indwe,73,NULL,0293,-31.470447,27.341457,045 514 0023,,,Indwe,76,Lewis Stores,Indwe,5445,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,26b Main Street Kirkwood  ,Kirkwood,73,NULL,0296,-33.40057,25.44343,043 054 0427,,,Kirkwood,76,Lewis Stores,Kirkwood,6120,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,23 Victoria Street Willowmore  ,Willowmore,73,NULL,0298,-33.294681,23.487179,087 109 1791,,,Willowmore,76,Lewis Stores,Willowmore,6445,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1 Taxi Rank Development Cofimvaba ,Cofimvaba,73,NULL,0299,-32.0001496,27.57956632,047 108 5012,,,Cofimvaba,76,Lewis Stores,Cofimvaba,5380,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,83a Brand Street Frankfort  ,Frankfort,73,NULL,0300,-27.27387732,28.49445863,058 109 0136,,,Frankfort,77,Lewis Stores,Frankfort,9830,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,46 Market Street Piet Retief  ,Piet Retief,73,NULL,0301,-27.005657,30.801378,017 054 0237,,,Piet Retief,81,Lewis Stores,Piet Retief,2380,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,184 Kerk Street Potchefstroom  ,Potchefstroom,73,NULL,0302,-26.713078,27.0973,018 108 5067,,,Potchefstroom,83,Lewis Stores,Potchefstroom,2520,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,35a President Steyn Str Wesselsbron  ,Wesselsbron,73,NULL,0303,-27.85444779,26.36349548,057 109 0106,,,Wesselsbron,77,Lewis Stores,Wesselsbron,9680,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,22 Oranje Street Kroonstad  ,Kroonstad,73,NULL,0305,-27.66362113,27.23525443,056 108 5017,,,Kroonstad,77,Lewis Stores,Kroonstad,9500,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,cnr Waterkant & Wessels Odendaalsrus  ,Odendaalsrus,73,NULL,0306,-27.87522233,26.68478392,057 109 0105,,,Odendaalsrus,77,Lewis Stores,Odendaalsrus,9480,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,53a Scholtz Street Lichtenburg  ,Lichtenburg,73,NULL,0307,-26.14882527,26.15790857,018 108 5048,,,Lichtenburg,83,Lewis Stores,Lichtenburg,2740,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,47 du Toitspan Road Kimberley  ,Kimberley,73,NULL,0308,-28.740029,24.764718,053 108 5005,,,Kimberley,82,Lewis Stores,Kimberley,8301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 1, King Centre Cnr Phakamile Mabija rd York Street Kimberley",Kimberley,73,NULL,0309,-28.74218215,24.76380129,053 108 5002,,,Kimberley,82,Lewis Stores,Kimberley,8301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,40 Scott Street Upington  ,Upington,73,NULL,0311,-28.457975,21.246111,054 109 9025,,,Upington,82,Lewis Stores,Upington,8800,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Bevisa Building 43a Mooi Street Welkom ,Welkom,73,NULL,0312,-27.98291,26.73874,057 109 0104,,,Welkom,77,Lewis Stores,Welkom,9459,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,87 Market Street Vryburg  ,Vryburg,73,NULL,0313,-26.95830405,24.72800195,053 108 5033,,,Vryburg,83,Lewis Stores,Vryburg,8600,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,66 Milton Street Orkney  ,Orkney,73,NULL,0314,-26.979453,26.671828,018 108 5056,,,Orkney,83,Lewis Stores,Orkney,2620,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,11 Government Avenue Virginia  ,Virginia,73,NULL,0315,-28.104891,26.866004,057 109 0110,,,Virginia,77,Lewis Stores,Virginia,9431,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,18 Voortrekker Street Ladybrand  ,Ladybrand,73,NULL,0316,-29.19817423,27.45711526,051 054 5271,,,Ladybrand,77,Lewis Stores,Ladybrand,9745,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32 Beare Street Kuruman  ,Kuruman,73,NULL,0317,-27.463157,23.432411,053 108 5053,,,Kuruman,82,Lewis Stores,Kuruman,8460,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop B, OK Building Hartbeesfontein Road Stilfontein ",Stilfontein,73,NULL,0318,-26.842088,26.774805,018 108 5068,,,Stilfontein,83,Lewis Stores,Stilfontein,2551,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,26 Fontein Street Bothaville  ,Bothaville,73,NULL,0320,-27.3945059,26.61641547,056 108 5015,,,Bothaville,77,Lewis Stores,Bothaville,9660,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,48 de Beer Street Wepener  ,Wepener,73,NULL,0321,-29.72929213,27.03893598,051 054 5274,,,Wepener,77,Lewis Stores,Wepener,9944,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,36 Schweizer Street Schweizer Reneke  ,Schweizer Reneke,73,NULL,0322,-27.19118043,25.32813198,053 108 5057,,,Schweizer Reneke,83,Lewis Stores,Schweizer Reneke,2780,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,4 Pretorius Street Christiana  ,Christiana,73,NULL,0323,-27.90960991,25.17252278,053 108 5044,,,Christiana,83,Lewis Stores,Christiana,2680,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,cnr  Swart & Winter Sts Bultfontein  ,Bultfontein,73,NULL,0324,-28.28984145,26.15236468,051 054 5275,,,Bultfontein,77,Lewis Stores,Bultfontein,9670,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,11C Broadbent Street Wolmaransstad  ,Wolmaransstad,73,NULL,0325,-27.201864,25.983847,018 108 5039,,,Wolmaransstad,83,Lewis Stores,Wolmaransstad,2630,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,77 Oliver Thambo Street Klerksdorp  ,Klerksdorp,73,NULL,0326,-26.870518,26.665114,018 108 5038,,,Klerksdorp,83,Lewis Stores,Klerksdorp,2571,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,15 Maitland Street Bloemfontein  ,Bloemfontein,73,NULL,0327,-29.11842,26.22382,051 054 5256,,,Bloemfontein,77,Lewis Stores,Bloemfontein,9301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 Boxer Shop Cnt cnr Stateway & Bok Str Welkom ,Welkom,73,NULL,0328,-27.982305,26.740719,051 054 5233,,,Welkom,77,Lewis Stores,Welkom,9459,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,20b Brand Street Winburg  ,Winburg,73,NULL,0329,-28.519699,27.012348,051 054 5257,,,Winburg,77,Lewis Stores,Winburg,9420,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,63 Uys Street Warrenton  ,Warrenton,73,NULL,0330,-28.11146086,24.84827229,053 108 5064,,,Warrenton,82,Lewis Stores,Warrenton,8530,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Piet Retief Street Ficksburg  ,Ficksburg,73,NULL,0331,-28.870064,27.876693,051 054 5276,,,Ficksburg,77,Lewis Stores,Ficksburg,9730,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,22 Piet Retief Street Viljoenskroon  ,Viljoenskroon,73,NULL,0332,-27.21085698,26.94656473,056 108 5014,,,Viljoenskroon,77,Lewis Stores,Viljoenskroon,9520,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,37 Maitland Street Bloemfontein  ,Bloemfontein,73,NULL,0334,-29.117526,26.220108,051 054 5255,,,Bloemfontein,77,Lewis Stores,Bloemfontein,9301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1  Civic Centre 27 Bok Street Welkom ,Welkom Civic Centre,73,NULL,0336,-27.98440988,26.73536671,056 108 5001,,,Welkom Civic Centre,77,Lewis Stores,Welkom Civic Centre,9459,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,610 Jones Street Kimberley  ,Kimberley,73,NULL,0337,-28.73910651,24.76336534,053 108 5058,,,Kimberley,82,Lewis Stores,Kimberley,8301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Arnot Street Douglas  ,Douglas,73,NULL,0338,-29.05441,23.77595,053 108 5035,,,Douglas,82,Lewis Stores,Douglas,8730,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cnr Jan Smarts & Basson Hartswater  ,Hartswater,73,NULL,0339,-27.75456167,24.80802274,053 108 5059,,,Hartswater,82,Lewis Stores,Hartswater,8570,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,9 Stella Street Jan Kempdorp  ,Jan Kempdorp,73,NULL,0340,-27.92032894,24.8366887,053 108 5006,,,Jan Kempdorp,82,Lewis Stores,Jan Kempdorp,8550,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,35 Groot Trek Street Koffiefontein  ,Koffiefontein,73,NULL,0341,-29.408496,25.003641,053 108 5045,,,Koffiefontein,77,Lewis Stores,Koffiefontein,9986,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,20 Kerk Street Koppies  ,Koppies,73,NULL,0342,-27.24086928,27.5736207,056 108 5020,,,Koppies,77,Lewis Stores,Koppies,9540,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,12 High Street Postmasburg  ,Postmasburg,73,NULL,0343,-28.33239,23.06397,053 108 5032,,,Postmasburg,82,Lewis Stores,Postmasburg,8420,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Plot 6  Mmaraka Road Gaborone Botswana ,Gaborone,101,NULL,0344,-24.661846,25.906552,00267 395 6611,00267 318 1493,00267 317 0974,Gaborone,False,Lewis Stores,Gaborone,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 15 Kathu Shopping Centre Ben Albert Road Kathu,Kathu,73,NULL,0345,-27.69794466,23.0451545,053 108 5048,,,Kathu,82,Lewis Stores,Kathu,8446,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Livingstone Street Kuruman  ,Kuruman,73,NULL,0346,-27.458244,23.434572,053 108 5050,,,Kuruman,82,Lewis Stores,Kuruman,8460,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,1 Steyn Street Hennenman  ,Hennenman,73,NULL,0347,-27.97455078,27.02695632,056 108 5008,,,Hennenman,77,Lewis Stores,Hennenman,9445,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,van Heerden Street Theunissen  ,Theunissen,73,NULL,0348,-28.399839,26.713002,056 108 5002,,,Theunissen,77,Lewis Stores,Theunissen,9410,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,47 General Delaray Street Delarayville  ,Delareyville,73,NULL,0349,-26.68910849,25.45727302,053 108 5034,,,Delareyville,83,Lewis Stores,Delareyville,2770,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,11 van der Watt Street Marquard  ,Marquard,73,NULL,0351,-28.664726,27.427281,051 054 5277,,,Marquard,77,Lewis Stores,Marquard,9610,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,13 Mathee Street Zastron  ,Zastron,73,NULL,0352,-30.30065639,27.08673449,051 054 5278,,,Zastron,77,Lewis Stores,Zastron,9950,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32 Rienzi Street Clocolan  ,Clocolan,73,NULL,0353,-28.913722,27.56834,051 054 5251,,,Clocolan,77,Lewis Stores,Clocolan,9735,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,67 Voortrekker Street Brandfort  ,Brandfort,73,NULL,0354,-28.701768,26.463057,051 054 5273,,,Brandfort,77,Lewis Stores,Brandfort,9400,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Barkly West  ,Barkly West,73,NULL,0355,-28.53759,24.5178,053 108 5031,,,Barkly West,82,Lewis Stores,Barkly West,8375,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Prins Street Bloemhof  ,Bloemhof,73,NULL,0356,-27.65242285,25.60328761,,053 108 5056,,Bloemhof,83,Lewis Stores,Bloemhof,2660,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Erf 162 Cnr Wessels & Kamp Street Hoopstad ,Hoopstad,73,NULL,0357,-27.83453378,25.90557768,053 108 5036,,,Hoopstad,77,Lewis Stores,Hoopstad,9479,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,105 Brand Street Jagersfontein  ,Jagersfontein,73,NULL,0358,-29.761294,25.424895,051 054 5237,,,Jagersfontein,77,Lewis Stores,Jagersfontein,9974,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cilliers Street Lindley  ,Lindley,73,NULL,0359,-27.87956605,27.92004795,058 109 0138,,,Lindley,77,Lewis Stores,Lindley,9630,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Andries Pretorius Street Jacobsdal  ,Jacobsdal,73,NULL,0360,-29.12708,24.77467,053 108 5063,,,Jacobsdal,77,Lewis Stores,Jacobsdal,8750,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Restant Erf 91 Kerk Street Hopetown ,Hopetown,73,NULL,0362,-29.62163,24.08393,053 108 5040,,,Hopetown,82,Lewis Stores,Hopetown,8750,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Carmichael Street Ventersdorp  ,Ventersdorp,73,NULL,0364,-26.319737,26.822712,018 108 5064,,,Ventersdorp,83,Lewis Stores,Ventersdorp,2710,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Aletha Street Swartruggens  ,Swartruggens,73,NULL,0365,-25.64978941,26.68732257,014 007 9433,,,Swartruggens,83,Lewis Stores,Swartruggens,2835,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,"Shop 10, on Plot 6568 Tshekedi Road Selebi Phikwe Botswana",Selebi Phikwe,101,NULL,0366,-21.9764414913588,27.8373456196238,00267 261 5688,00267 261 5686,00267 261 5690,Selebi Phikwe,False,Lewis Stores,Selebi Phikwe,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32a Voortrekker Road Ottosdal  ,Ottosdal,73,NULL,0369,-26.81175,26.002557,018 108 5047,,,Ottosdal,83,Lewis Stores,Ottosdal,2610,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,24 Reitz Street Kroonstad  ,Kroonstad,73,NULL,0370,-27.66158237,27.23490843,056 108 5013,,,Kroonstad,77,Lewis Stores,Kroonstad,9499,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,"Erf 350  Main Street Shop 1b, Atlas Centre Tbaba 'Nchu ",Thaba Nchu,73,NULL,0377,-29.21558,26.8395,051 054 5229,,,Thaba Nchu,77,Lewis Stores,Thaba Nchu,9780,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,41 Voortrekker Street Trompsburg  ,Trompsburg,73,NULL,0379,-30.0329,25.780965,051 054 5268,,,Trompsburg,77,Lewis Stores,Trompsburg,9913,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Sir Seretse Khama Road Maputsoe Lesotho ,Maputsoe,155,NULL,0380,-28.88710424,27.90052836,00266 2243 0318,00266 2243 0407,00266 2243 0199,Maputsoe,False,Lewis Stores,Maputsoe,0350,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,9 Church Street Zeerust  ,Zeerust,73,NULL,0381,-25.54601645,26.07637026,018 108 5031,,,Zeerust,83,Lewis Stores,Zeerust,2865,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Mofolo Street Teyateyaneng Lesotho ,Teyateyaneng,155,NULL,0383,-29.150768,27.744225,00266 2250 0259,00266 2250 0785,,Teyateyaneng,False,Lewis Stores,Teyateyaneng,0200,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Seanammarena Building Main Street Hlotse Leribe Lesotho,Leribe,155,NULL,0384,-28.871641,28.042782,00266 2240 0330,00266 2240 0361,00266 2240 1409,Leribe,False,Lewis Stores,Leribe,0300,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,1315 Transvaal Road Kimberley  ,Kimberley,73,NULL,0386,-28.73797444,24.76327455,053 108 5047,,,Kimberley,82,Lewis Stores,Kimberley,8301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 27a Taung Shopping Centre Taung ,Taung,73,NULL,0389,-27.55973313,24.74669574,053 108 5055,,,Taung,83,Lewis Stores,Taung,8580,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Main Street Butha Buthe Lesotho ,Butha Buthe,155,NULL,0390,-28.764217,28.24941,00266 2246 0487,00266 2246 0646,,Butha Buthe,False,Lewis Stores,Butha Buthe,0400,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Voortrekker Street Ventersburg  ,Ventersburg,73,NULL,0392,-28.085139,27.13525,057 109 0107,,,Ventersburg,77,Lewis Stores,Ventersburg,9450,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,2 Postal Service Complex Kingsway Maseru Lesotho,Maseru,155,NULL,0393,-29.314086,27.482131,00266 2232 4642,00266 2232 2228,00266 2231 3816,Maseru,False,Lewis Stores,Maseru,0105,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 7, Lethlakane Shp Cn Lethlakane Botswana ",Letlhakhane,101,NULL,0394,-21.411612,25.578977,00267 297 6568,00267 297 6569,00267 297 6275,Letlhakhane,False,Lewis Stores,Letlhakhane,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,33 Joubert Street Bethulie  ,Bethulie,73,NULL,0395,-30.495467,25.975146,051 054 5253,,,Bethulie,77,Lewis Stores,Bethulie,9992,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,30 Ossewa Street ERF 189 & 190 Petrusburg ,Petrusburg,73,NULL,0396,-29.114662,25.417084,053 108 5037,,,Petrusburg,77,Lewis Stores,Petrusburg,9932,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,12th Eleventh Avenue Kakamas  ,Kakamas,73,NULL,0397,-28.776467,20.621728,054 109 9030,,,Kakamas,82,Lewis Stores,Kakamas,8870,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Erf 711712 Tsheko Road Maun Botswana,Maun,101,NULL,0398,-19.987978,23.425466,00267 686 5507,00267 686 5505,00267 686 2972,Maun,False,Lewis Stores,Maun,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Secunda Shopping Centre Extension 2 Secunda ,Secunda,73,NULL,0401,-26.504195,29.182519,017 054 0249,,,Secunda,81,Lewis Stores,Secunda,2302,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 45, Sechaba Mall Muller Street Bethlehem ",Bethlehem,73,NULL,0402,-28.231096,28.317433,058 109 0133,,,Bethlehem,77,Lewis Stores,Bethlehem,9701,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,31a Warden Street Harrismith  ,Harrismith,73,NULL,0403,-28.269127,29.123676,058 109 0130,,,Harrismith,77,Lewis Stores,Harrismith,9880,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,43 Victoria Road Dundee  ,Dundee,73,NULL,0404,-28.163181,30.236878,034 108 6019,,,Dundee,79,Lewis Stores,Dundee,3000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,21 Kerk Street Standerton  ,Standerton,73,NULL,0405,-26.952407,29.244261,017 054 0254,,,Standerton,81,Lewis Stores,Standerton,2429,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,80 Joubert Street Ermelo  ,Ermelo,73,NULL,0406,-26.5212871,29.98706983,017 054 0233,,,Ermelo,81,Lewis Stores,Ermelo,2350,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,51 Nelson Mandela Drive Volksrust  ,Volksrust,73,NULL,0407,-27.368382,29.886017,017 054 0232,,,Volksrust,81,Lewis Stores,Volksrust,2470,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,69 Scott Street Newcastle  ,Newcastle,73,NULL,0408,-27.75823,29.931291,034 108 6015,,,Newcastle,79,Lewis Stores,Newcastle,2940,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2  Osborne Street Eshowe  ,Eshowe,73,NULL,0409,-28.893079,31.468249,035 514 0143,,,Eshowe,79,Lewis Stores,Eshowe,3815,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,SHOP NO 3 126 KING SHAKA STREET STANGER ,Stanger,73,NULL,0411,-29.338441,31.289442,032 108 5002,,,Stanger,79,Lewis Stores,Stanger,4449,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,129 Pine Street Greytown  ,Greytown,73,NULL,0412,-29.0601118,30.59158356,033 108 5006,,,Greytown,79,Lewis Stores,Greytown,3250,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,12 Market Street Middelburg  ,Middelburg  Tvl,73,NULL,0414,-25.76593636,29.45669876,013 007 9239,,,Middelburg  Tvl,81,Lewis Stores,Middelburg  Tvl,1050,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,16 Zuider Street Senekal  ,Senekal,73,NULL,0415,-28.323283,27.622485,058 109 0132,,,Senekal,77,Lewis Stores,Senekal,9600,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,140 High Street Vryheid  ,Vryheid,73,NULL,0416,-27.766954,30.793048,034 108 6027,,,Vryheid,79,Lewis Stores,Vryheid,3100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,491 West Street Durban  ,Durban,73,NULL,0417,-29.85968301,31.01678818,031 054 7685,,,Durban,79,Lewis Stores,Durban,4001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,53 Harding Street Estcourt  ,Estcourt,73,NULL,0418,-29.009057,29.872818,036 514 0108,,,Estcourt,79,Lewis Stores,Estcourt,3310,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,110 Russell Street Durban  ,Durban,73,NULL,0419,-29.86042569,31.01575946,031 054 6377,,,Durban,79,Lewis Stores,Durban,4008,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,22B HIGH STREET Bethlehem  ,Bethlehem,73,NULL,0421,-28.231864,28.307262,056 108 5005,,,Bethlehem,77,Lewis Stores,Bethlehem,9701,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,49 Kerk Street Heilbron  ,Heilbron,73,NULL,0422,-27.28389675,27.96940964,058 109 0100,,,Heilbron,77,Lewis Stores,Heilbron,9650,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,"SHOP 1, LOT 2421 43 HILL STREET Pinetown ",Pinetown,73,NULL,0423,-29.81662065,30.86039091,031 054 9629,,,Pinetown,79,Lewis Stores,Pinetown,3610,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no1 16 Commercial Street Empangeni ,Empangeni,73,NULL,0424,-28.74298616,31.88915526,035 514 0163,,,Empangeni,79,Lewis Stores,Empangeni,3880,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,47 Kerk Street Vrede  ,Vrede,73,NULL,0425,-27.42702107,29.16225301,056 108 5003,,,Vrede,77,Lewis Stores,Vrede,9835,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,128 Church Street Pietermaritzburg  ,Pietermaritzburg,73,NULL,0426,-29.605883,30.374106,033 108 5043,,,Pietermaritzburg,79,Lewis Stores,Pietermaritzburg,3201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,27 Voortrekker Street Carolina  ,Carolina,73,NULL,0427,-26.071024,30.118489,017 054 0255,,,Carolina,81,Lewis Stores,Carolina,1185,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 4 Station Road Marble Hall ,Marble Hall,73,NULL,0429,-24.96940731,29.29461051,013 007 9232,,,Marble Hall,81,Lewis Stores,Marble Hall,0450,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,"Erf 219, Shop 9 Sarel Cilliers Ave Warden ",Warden,73,NULL,0430,-27.85863651,28.96502725,058 109 0137,,,Warden,77,Lewis Stores,Warden,9890,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Burgersfort  ,Burgersfort,73,NULL,0431,-24.66873409,30.32447461,013 007 9271,,,Burgersfort,81,Lewis Stores,Burgersfort,1150,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,35 Uniefees Street Reitz  ,Reitz,73,NULL,0433,-27.7971689,28.42955249,054 109 9026,,,Reitz,77,Lewis Stores,Reitz,9810,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shops 24  Plaza Centre Naude Street Pongola ,Pongola,73,NULL,0434,-27.37655555,31.61178944,034 108 6020,,,Pongola,79,Lewis Stores,Pongola,3170,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no23 Checkers Centre Bullion Boulevard Richards Bay ,Richards Bay,73,NULL,0435,-28.75516153,32.04854785,035 514 0144,,,Richards Bay,79,Lewis Stores,Richards Bay,3900,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop 7  Bontbok Building CR Swart Street Vanderbijlpark ,Vanderbijlpark,73,NULL,0436,-26.697545,27.836351,016 510 0146,,,Vanderbijlpark,78,Lewis Stores,Vanderbijlpark,1900,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,49 Princess Avenue Benoni  ,Benoni,73,NULL,0437,-26.190115,28.320582,010 018 6989,,,Benoni,78,Lewis Stores,Benoni,1501,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Voortrekker & President Streets Amsterdam ,Amsterdam,73,NULL,0438,-26.623767,30.661539,017 054 0246,,,Amsterdam,81,Lewis Stores,Amsterdam,2375,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,11 Heldin Street Amersfoort  ,Amersfoort,73,NULL,0440,-27.006142,29.873092,017 054 0243,,,Amersfoort,81,Lewis Stores,Amersfoort,2490,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1 Metcash Centre Site 12274 Kingsway Road Maseru Lesotho,Maseru,155,NULL,0441,-29.315528,27.489315,00266 2231 8765,00266 2231 8286,00266 2231 1245,Maseru,False,Lewis Stores,Maseru,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 3 Matsamo Plaza Schoemansdal ,Schoemansdal,73,NULL,0442,-25.677602,31.511328,013 007 9130,,,Schoemansdal,80,Lewis Stores,Schoemansdal,1331,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 24 Setsing Shopping Centre Cnr Setay & Motloung Str Phuthaditjhaba,Phuthaditjhaba,73,NULL,0443,-28.533064,28.805011,058 109 0200,,,Phuthaditjhaba,77,Lewis Stores,Phuthaditjhaba,9869,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Kgama & Temane Ave Jwaneng Botswana ,Jwaneng,101,NULL,0444,-24.598738,24.729149,00267 588 1312,00267 588 1318,,Jwaneng,False,Lewis Stores,Jwaneng,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,cnr Blue Jacket & Baines Francistown Botswana ,Francistown,101,NULL,0446,-21.16409,27.509928,00267 241 2449,00267 241 2416,00267 241 2470,Francistown,False,Lewis Stores,Francistown,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Palapye Botswana ,Palapye,101,NULL,0447,-22.541553,27.08846,00267 492 2071,00267 492 2139,00267 492 0880,Palapye,False,Lewis Stores,Palapye,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Kanye Botswana ,Kanye,101,NULL,0448,-24.9798464927038,25.3386665913847,00267 544 0349,00267 544 0123,00267 544 2499,Kanye,False,Lewis Stores,Kanye,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Molepolole Botswana ,Molepolole,101,NULL,0449,-24.403493,25.526596,00267 590 6092,00267 592 0448,,Molepolole,False,Lewis Stores,Molepolole,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Umzinto  ,Umzinto,73,NULL,0450,-30.3092792,30.66290505,039 200 9110,,,Umzinto,79,Lewis Stores,Umzinto,4200,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Erf 58 van Riebeek Street Ogies ,Ogies,73,NULL,0453,-26.05411526,29.04859383,013 007 9276,,,Ogies,81,Lewis Stores,Ogies,2230,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Panther Street Hoedspruit  ,Hoedspruit,73,NULL,0454,-24.352846,30.952224,015 007 8214,,,Hoedspruit,80,Lewis Stores,Hoedspruit,1380,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,7 Steyn Street Breyten  ,Breyten,73,NULL,0455,-26.303643,29.985923,017 054 0250,,,Breyten,81,Lewis Stores,Breyten,2330,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Main Road Jane Furse  ,Jane Furse,73,NULL,0458,-24.755538,29.855467,013 007 9162,,,Jane Furse,80,Lewis Stores,Jane Furse,1085,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 38  Acornhoek Plaza Farmgreen Valley 213KU Acornhoek ,Acornhoek,73,NULL,0460,-24.599662,31.048835,013 007 9273,,,Acornhoek,81,Lewis Stores,Acornhoek,1360,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 89 Kwagga Mall Kwaggafontein ,Kwaggafontein,73,NULL,0461,-25.31258098,28.94057418,013 007 9025,,,Kwaggafontein,81,Lewis Stores,Kwaggafontein,0458,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,"Shop6,Boxer Shopping Cent cnr Shepstone &Chilley Rd Richmond ",Richmond,73,NULL,0462,-29.871506,30.270286,033 108 5026,,,Richmond,79,Lewis Stores,Richmond,3780,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shops 24 48 Sarel Cilliers Street Delmas ,Delmas,73,NULL,0464,-26.14983433,28.6873883,013 007 9231,,,Delmas,81,Lewis Stores,Delmas,2210,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,98 South Street Bergville  ,Bergville,73,NULL,0466,-28.73213182,29.35339715,036 514 0106,,,Bergville,79,Lewis Stores,Bergville,3350,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,64 Allen Street Newcastle  ,Newcastle,73,NULL,0468,-27.75508394,29.93441482,034 108 6016,,,Newcastle,79,Lewis Stores,Newcastle,2940,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no2 Somme Centre Harvard Road Howick,Howick,73,NULL,0470,-29.485746,30.232227,033 108 5027,,,Howick,79,Lewis Stores,Howick,3290,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,419 Church Street Pietermaritzburg  ,Pietermaritzburg,73,NULL,0471,-29.596632,30.384671,033 108 5003,,,Pietermaritzburg,79,Lewis Stores,Pietermaritzburg,3235,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,17 Market Square Mafikeng  ,Mafikeng,73,NULL,0473,-25.86557577,25.64319308,018 108 5046,,,Mafikeng,83,Lewis Stores,Mafikeng,2745,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,4244 Alexander Street Ladysmith  ,Ladysmith  Natal,73,NULL,0475,-28.557566,29.783283,036 514 0102,,,Ladysmith  Natal,79,Lewis Stores,Ladysmith  Natal,3370,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Wooley Street Port Shepstone  ,Port Shepstone,73,NULL,0478,-30.73774,30.450278,039 200 9104,,,Port Shepstone,79,Lewis Stores,Port Shepstone,4240,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Market Street Piet Retief  ,Piet Retief,73,NULL,0479,-27.00910774,30.80256711,017 054 0229,,,Piet Retief,81,Lewis Stores,Piet Retief,2380,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,119b Pine Street Greytown  ,Greytown,73,NULL,0480,-29.059784,30.592241,,033 108 5002,,Greytown,79,Lewis Stores,Greytown,3250,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,9 Keate Street Harding  ,Harding,73,NULL,0481,-30.576987,29.884867,039 200 9100,,,Harding,79,Lewis Stores,Harding,4680,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,14 Joubert Street Ermelo  ,Ermelo,73,NULL,0482,-26.52185476,29.98481704,017 054 0228,,,Ermelo,81,Lewis Stores,Ermelo,2350,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 5 Church Street Bethal ,Bethal,73,NULL,0483,-26.45431739,29.46090989,017 054 0239,,,Bethal,81,Lewis Stores,Bethal,2310,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Lantana Street Phalaborwa  ,Phalaborwa,73,NULL,0486,-23.95033368,31.1320642,015 007 8219,,,Phalaborwa,80,Lewis Stores,Phalaborwa,1390,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Evelyn Baring Street Piggs Peak Swaziland ,Piggs Peak,219,NULL,0487,-25.9621454,31.24547005,00268 2437 1356,00268 2437 1116,,Piggs Peak,False,Lewis Stores,Piggs Peak,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,37a Margaret Street Ixopo  ,Ixopo,73,NULL,0488,-30.151392,30.058839,039 200 9106,,,Ixopo,79,Lewis Stores,Ixopo,3276,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Jacaranda Avenue Siteki Swaziland ,Siteki,219,NULL,0489,-26.453151,31.946429,00268 2343 4002,00268 2343 5146,00268 2343 4277,Siteki,False,Lewis Stores,Siteki,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,27 Bester Street Nelspruit  ,Nelspruit,73,NULL,0493,-25.470161,30.977045,056 108 5010,,,Nelspruit,81,Lewis Stores,Nelspruit,1201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 8  Sasolburg Mall Sasolburg  ,Sasolburg,73,NULL,0494,-26.81308152,27.82666697,016 514 0142,,,Sasolburg,77,Lewis Stores,Sasolburg,1947,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,cnr van Gend & Lisbon Sts Evander  ,Evander,73,NULL,0498,-26.47162911,29.10937446,017 054 0238,,,Evander,81,Lewis Stores,Evander,2280,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop 1  Inyati Centre 23 John Ross Highway Mtubatuba ,Mtubatuba,73,NULL,0499,-28.413964,32.18522,035 514 0114,,,Mtubatuba,79,Lewis Stores,Mtubatuba,3935,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,27 President Street Fochville  ,Fochville,73,NULL,0500,-26.493446,27.493439,018 108 5033,,,Fochville,83,Lewis Stores,Fochville,2515,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,518 Gerrit Maritz Street Pretoria North  ,Pretoria North,73,NULL,0501,-25.6743526,28.17187537,012 054 6317,,,Pretoria North,78,Lewis Stores,Pretoria North,0182,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,28 Voortrekker Street BelaBela  ,Belabela,73,NULL,0502,-24.8846888,28.29573426,014 007 9040,,,Belabela,80,Lewis Stores,Belabela,0480,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,45 Pritchard Street Johannesburg  ,Johannesburg,73,NULL,0503,-26.203116,28.041407,016 514 0109,,,Johannesburg,78,Lewis Stores,Johannesburg,2001,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,2 Saambou Building cnr Clinton & Penzance Alberton ,Alberton,73,NULL,0504,-26.267596,28.120945,010 510 5015,,,Alberton,78,Lewis Stores,Alberton,1449,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop n SK2 Shoprite Centre 265 Commmissioner Str Boksburg,Boksburg,73,NULL,0507,-26.223133,28.254045,010 510 5776,,,Boksburg,78,Lewis Stores,Boksburg,1459,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 Amethyst Street Carletonville ,Carletonville,73,NULL,0508,-26.35503,27.397513,018 108 5049,,,Carletonville,78,Lewis Stores,Carletonville,2499,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,18 Allen Street Westonaria  ,Westonaria,73,NULL,0509,-26.318835,27.650499,010 510 3630,,,Westonaria,78,Lewis Stores,Westonaria,1779,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,69 van Zyl Street Oberholzer  ,Oberholzer,73,NULL,0510,-26.34876,27.389674,018 108 5030,,,Oberholzer,78,Lewis Stores,Oberholzer,2502,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no1 HansMarie Trust Bld 3 De Wit Street Brits,Brits,73,NULL,0511,-25.63629321,27.78051406,012 054 6325,,,Brits,83,Lewis Stores,Brits,0250,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,5 Voortrekker Street Nelspruit  ,Nelspruit,73,NULL,0512,-25.468973,30.977165,013 007 9165,,,Nelspruit,81,Lewis Stores,Nelspruit,1201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 108, Jubilee Mall cnr Jubilee & Harry Gwala Road Hammanskraal",Temba,73,NULL,0514,-25.40453595,28.27047992,012 054 6390,,,Temba,83,Lewis Stores,Temba,0400,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop 3 40 Berg Street Rustenburg ,Rustenberg,73,NULL,0515,-25.66694284,27.2419195,014 007 9429,,,Rustenberg,83,Lewis Stores,Rustenberg,0299,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,44 Retief Street Mokopane  ,Mokopane,73,NULL,0519,-24.183269,29.011717,015 007 8226,,,Mokopane,80,Lewis Stores,Mokopane,0601,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Buffalo Street Malelane  ,Malelane,73,NULL,0521,-25.49618084,31.51446281,013 007 9128,,,Malelane,81,Lewis Stores,Malelane,1320,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,20 Loch Street Meyerton  ,Meyerton,73,NULL,0522,-26.558072,28.01464,016 514 0143,,,Meyerton,78,Lewis Stores,Meyerton,1960,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,35 Main Road Randfontein  ,Randfontein,73,NULL,0523,-26.180146,27.704417,010 018 9359,,,Randfontein,78,Lewis Stores,Randfontein,1759,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 47 The Avenues ShpgCen 52, 7th Street Springs",Springs,73,NULL,0524,-26.253768,28.439702,010 018 6984,,,Springs,78,Lewis Stores,Springs,1559,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,300 Paul Kruger Street Pretoria  ,Pretoria,73,NULL,0526,-25.74922216,28.18843067,012 054 5489,,,Pretoria,78,Lewis Stores,Pretoria,0002,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Plot K & O West Street Mbabane Swaziland ,Mbabane,219,NULL,0527,-26.32570916,31.14271861,00268 2404 3584,00268 2404 6634,,Mbabane,False,Lewis Stores,Mbabane,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Plot 125 Nqwane Street Manzini Swaziland ,Manzini,219,NULL,0528,-26.496239,31.377644,00268 2505 4210,00268 2505 4450,00268 2505 3516,Manzini,False,Lewis Stores,Manzini,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Old Edgars Building Cnr of Kerk & van Wyk Str Roodepoort ,Roodepoort,73,NULL,0529,-26.161388,27.867964,010 510 3475,,,Roodepoort,78,Lewis Stores,Roodepoort,1724,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 4 Sasolburg Square Fichardt Street Sasolburg,Sasolburg,73,NULL,0532,-26.81563181,27.82715099,010 510 1918,,,Sasolburg,77,Lewis Stores,Sasolburg,1947,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,cnr Athlone & Escombe Sts Emalahleni (Witbank)  ,Emalahleni,73,NULL,0533,-25.873065,29.212162,013 007 9047,,,Emalahleni,81,Lewis Stores,Emalahleni,1034,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,49b Dolf Street Parys  ,Parys,73,NULL,0534,-26.90132601,27.45738308,056 108 5018,,,Parys,77,Lewis Stores,Parys,9585,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,27 Kruger Street Krugersdorp  ,Krugersdorp,73,NULL,0535,-26.101736,27.770784,010 510 8591,,,Krugersdorp,78,Lewis Stores,Krugersdorp,1739,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 58 Main Street Sabie ,Sabie,73,NULL,0536,-25.097685,30.779152,013 007 9126,,,Sabie,81,Lewis Stores,Sabie,1260,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,83 Potgieter Street Modimolle  ,Modimolle,73,NULL,0538,-24.70381169,28.40946356,014 007 9048,,,Modimolle,80,Lewis Stores,Modimolle,0510,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,"25B, Hendrick Verwoerd St Nigel  ",Nigel,73,NULL,0539,-26.417986,28.468472,010 510 3617,,,Nigel,78,Lewis Stores,Nigel,1491,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,57 Crown Street Barberton  ,Barberton,73,NULL,0541,-25.791228,31.052312,013 007 9149,,,Barberton,81,Lewis Stores,Barberton,1300,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,545 Moot Street Hercules  ,Hercules,73,NULL,0542,-25.71216752,28.15482592,012 054 5498,,,Hercules,78,Lewis Stores,Hercules,0082,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop No 10 Heidelberg Square Cnr Voortrekker & Mertz Heidelberg,Heidelberg  East Rand,73,NULL,0543,-26.501981,28.359667,016 514 0149,,,Heidelberg  East Rand,78,Lewis Stores,Heidelberg  East Rand,1441,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop E 72 Thabo Mbeki Street Mookgopong ,Mookgopong,73,NULL,0544,-24.51843,28.7151,014 007 9173,,,Mookgopong,80,Lewis Stores,Mookgopong,0650,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,58 Lanham Street Bronkhorstspruit  ,Bronkhorstspruit,73,NULL,0545,-25.81097888,28.74666353,015 007 8211,,,Bronkhorstspruit,78,Lewis Stores,Bronkhorstspruit,1020,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,"Shop 1, 2 & 3 Steelpark Centre Pres Kruger Street Vanderbijlpark",Vanderbijlpark,73,NULL,0548,-26.696982,27.835195,016 514 0105,,,Vanderbijlpark,78,Lewis Stores,Vanderbijlpark,1900,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,5 Morgan Street Tzaneen  ,Tzaneen,73,NULL,0549,-23.826389,30.160859,015 007 9069,,,Tzaneen,80,Lewis Stores,Tzaneen,0850,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no1 situated on Erf 4309 Songozwi Street Louis Trichardt,Makhado,73,NULL,0551,-23.040531,29.90961,015 007 9495,,,Makhado,80,Lewis Stores,Makhado,0920,07:30 - 17:30,08:00 - 15:00,CLOSED
+NULL,Jan Lee Street Lephalale  ,Lephalale,73,NULL,0552,-23.67771545,27.73703008,014 007 9042,,,Lephalale,80,Lewis Stores,Lephalale,0555,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,18a Jorissen Street Polokwane  ,Polokwane,73,NULL,0553,-23.906928,29.451654,015 007 9497,,,Polokwane,80,Lewis Stores,Polokwane,0699,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,598 Voortrekker Road Brakpan  ,Brakpan,73,NULL,0554,-26.236167,28.365255,010 018 6988,,,Brakpan,78,Lewis Stores,Brakpan,1541,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 4 Checkers Centre 4 Mark Street Groblersdal ,Groblersdal,73,NULL,0555,-25.1662327,29.39556174,013 007 9226,,,Groblersdal,80,Lewis Stores,Groblersdal,0470,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 72 Central City Shopping Cnt Mabopane ,Mabopane,73,NULL,0557,-25.49582555,28.08498018,012 054 5654,,,Mabopane,83,Lewis Stores,Mabopane,0190,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Cnr Murray & Pienaar Str Brits  ,Brits,73,NULL,0558,-25.63683648,27.77919538,012 054 6370,,,Brits,83,Lewis Stores,Brits,0250,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop No10 Thabazimbi Spar Centre Van Der Bijl Street Thabazimbi,Thabazimbi,73,NULL,0560,-24.58742159,27.41119834,014 007 9426,,,Thabazimbi,80,Lewis Stores,Thabazimbi,0380,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,15 Escombe Street Emalahleni (Witbank)  ,Emalahleni,73,NULL,0561,-25.874092,29.211616,013 007 9050,,,Emalahleni,81,Lewis Stores,Emalahleni,1035,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 5 CentreStuart Cnr Stuart & Rissik Str Balfour ,Balfour,73,NULL,0562,-26.660655,28.589774,017 054 0252,,,Balfour,81,Lewis Stores,Balfour,2410,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Stand 239 4 Norda Street Leandra ,Leandra,73,NULL,0564,-26.36760715,28.9246347,017 054 0235,,,Leandra,81,Lewis Stores,Leandra,2265,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop 21 Mangalani Shopping Centre Malamulele ,Malamulele,73,NULL,0565,-22.998383,30.692433,015 007 9217,,,Malamulele,80,Lewis Stores,Malamulele,0982,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 3 Matata Shopping Complex Matata Swaziland,Matata,219,NULL,0567,-26.86705449,31.92129142,00268 2364 6031,00268 2364 6032,00268 2364 6035,Matata,False,Lewis Stores,Matata,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Fourth Street Nhlangano Swaziland ,Nhlangano,219,NULL,0568,-27.11286668,31.19959367,00268 2207 7828,00268 2207 9157,00268 2207 7282,Nhlangano,False,Lewis Stores,Nhlangano,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 Sylva's Building 28 Beukes Street Hendrina ,Hendrina,73,NULL,0569,-26.158918,29.717685,013 007 9024,,,Hendrina,81,Lewis Stores,Hendrina,1095,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1 2 Middelwit Road Northam ,Northam,73,NULL,0575,-24.9610002,27.26369764,014 007 9146,,,Northam,80,Lewis Stores,Northam,0360,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,1 Merriman Avenue Vereeniging  ,Vereeniging,73,NULL,0576,-26.674075,27.932895,016 514 0102,,,Vereeniging,78,Lewis Stores,Vereeniging,1939,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shops 56 SADC Street Middelburg ,Middelburg  Tvl,73,NULL,0577,-25.766732,29.457582,033 108 5004,,,Middelburg  Tvl,81,Lewis Stores,Middelburg  Tvl,1050,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 1 AS Vazeer Shopping Cntr Soekmekaar ,Soekmekaar,73,NULL,0578,-23.494488,29.927511,014 007 9434,,,Soekmekaar,80,Lewis Stores,Soekmekaar,0810,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,77 Market Street Polokwane  ,Polokwane,73,NULL,0579,-23.906176,29.450714,010 510 1927,,,Polokwane,80,Lewis Stores,Polokwane,0700,07:30 - 18:00,08:00 - 15:00,CLOSED
+NULL,cnr Perren & Olen Streets Potchefstroom  ,Potchefstroom,73,NULL,0580,-26.712497,27.09809,018 108 5035,,,Potchefstroom,83,Lewis Stores,Potchefstroom,2531,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,50 Potgieter Street Mokopane  ,Mokopane,73,NULL,0581,-24.180273,29.011444,015 007 8225,,,Mokopane,80,Lewis Stores,Mokopane,0601,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,114 Botha Street Modjadjieskloof  ,Modjadjieskloof,73,NULL,0584,-23.6955,30.141237,015 007 8221,,,Modjadjieskloof,80,Lewis Stores,Modjadjieskloof,0835,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No1 Thabo Mbeki Road Rustenburg ,Rustenberg,73,NULL,0585,-25.66735741,27.24021301,014 007 9431,,,Rustenberg,83,Lewis Stores,Rustenberg,0299,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop 3 Giyani Shopping Centre Giyani ,Giyani,73,NULL,0587,-23.31097042,30.69389655,015 007 9482,,,Giyani,80,Lewis Stores,Giyani,0826,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,18b Commissioner Street Klerksdorp  ,Klerksdorp,73,NULL,0588,-26.864611,26.662511,018 108 5065,,,Klerksdorp,83,Lewis Stores,Klerksdorp,2571,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Shop 4 Manzini Centre 14 Nkoseluhlaza Street Manzini Swaziland,Manzini,219,NULL,0589,-26.49742483,31.37765272,00268 2505 2741,00268 2505 5151,00268 2505 7278,Manzini,False,Lewis Stores,Manzini,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Capital Buildings Allister Miller Street Mbabane Swaziland,Mbabane,219,NULL,0590,-26.32585303,31.14390622,00268 2404 5691,00268 2404 2067,00268 2404 7877,Mbabane,False,Lewis Stores,Mbabane,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,32 Charl Cilliers St Standerton  ,Standerton,73,NULL,0591,-26.952935,29.241577,017 054 0242,,,Standerton,81,Lewis Stores,Standerton,2430,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,41 Voortrekker Road BelaBela  ,Belabela,73,NULL,0592,-24.884759,28.2946,014 007 9076,,,Belabela,80,Lewis Stores,Belabela,0480,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,Shop 2 85 Odendaal Street Odendaalsrus ,Odendaalsrus,73,NULL,0593,-27.87393556,26.68148317,057 109 0108,,,Odendaalsrus,77,Lewis Stores,Odendaalsrus,9480,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Staatsplein Marble Hall  ,Marble Hall,73,NULL,0595,-24.971058,29.292358,013 007 9134,,,Marble Hall,81,Lewis Stores,Marble Hall,0450,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Downtown Centre William Lynn Street White River ,White River,73,NULL,0596,-25.328176,31.021229,013 007 9167,,,White River,81,Lewis Stores,White River,1240,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,76 Agatha Street Tzaneen  ,Tzaneen,73,NULL,0597,-23.824996,30.161461,015 007 8216,,,Tzaneen,80,Lewis Stores,Tzaneen,0850,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 Thohoyandou Shop Cntr Thohoyandou ,Thohoyandou,73,NULL,0599,-22.97161166,30.45832447,015 007 9483,,,Thohoyandou,80,Lewis Stores,Thohoyandou,0950,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop14 Mdantsane Shop Cen Cnr Billie & Qumza Str Mdantsane,Mdantsane,73,NULL,1001,-32.934299,27.73843,043 054 0449,,,Mdantsane,76,Lewis Stores,Mdantsane,5219,08:00 - 17:00,08:00 - 13:00,09:00 - 14:00
+NULL,Shop 57 Twin City Shp Cnt Heatherdale Road Bloemfontein,Bloemfontein,73,NULL,1002,-29.14171,26.2536,051 054 5261,,,Bloemfontein,77,Lewis Stores,Bloemfontein,9301,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 45 Simunye Plaza Simunye Swaziland,Simunye,219,NULL,1003,-26.20961015,31.92151332,00268 2383 8775,00268 2383 8776,00268 2383 8921,Simunye,False,Lewis Stores,Simunye,1779,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 5 Tsakane Shop Cnt cnr Malandela & Modjadji Str Tsakane,Tsakane,73,NULL,1004,-26.353276,28.37234,010 510 5766,,,Tsakane,78,Lewis Stores,Tsakane,1550,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop 5 Cnr Olifantsfontein & Alg Tswelepole Tembisa,Tembisa,73,NULL,1005,-25.96484065,28.2111161,010 510 0953,,,Tembisa,78,Lewis Stores,Tembisa,1632,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop 23 Phuthaditjhaba SC Lot 10219 Public Road 712 Phuthaditjhaba,Phuthaditjhaba,73,NULL,1006,-28.53133,28.830903,051 054 5001,,,Phuthaditjhaba,77,Lewis Stores,Phuthaditjhaba,9869,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 5 Rundu Plaza Main Street Rundu Stand Area 1 at Hosp Namibia,Rundu,182,NULL,1007,-17.916602,19.769925,00264 6625 6187,00264 6625 5581,,Rundu,False,Lewis Stores,Rundu,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 17 Giyani Plaza Phase 1  5, Erf 60  64 Giyani Township Giyani",Giyani,73,NULL,1008,-23.309815,30.692317,015 007 9496,,,Giyani,80,Lewis Stores,Giyani,0826,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 6 Thohoyandou Centre Erf BA29 Thohoyandou,Thohoyandou,73,NULL,1010,-22.97318157,30.45567747,015 007 9018,,,Thohoyandou,80,Lewis Stores,Thohoyandou,0950,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,71B Lady Grey Street Paarl  ,Paarl,73,NULL,1012,-33.731191,18.966725,021 005 4501,,,Paarl,84,Lewis Stores,Paarl,7646,09:00 - 18:00,08:00 - 13:00,CLOSED
+NULL,"Shop 4, KwaWicks Mall Erven 425 & 430 cnr Main & Smith Street Ugie",Ugie,73,NULL,1013,-31.19654,28.23222,045 514 0024,,,Ugie,76,Lewis Stores,Ugie,5470,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 11, Batho Plaza 18 Dr Maroke Street Soshanguve ",Soshanguve,73,NULL,1015,-25.481394,28.116208,012 054 6847,,,Soshanguve,78,Lewis Stores,Soshanguve,0152,08:00 - 17:00,08:00 - 15:00,08:00 - 13:00
+NULL,Shop No 5A Cala Shopping Centre cnr Tsomo & Umtata Roads Cala,Cala,73,NULL,1016,-31.52462695,27.69592134,047 877 0054,047 877 0049,,Cala,76,Lewis Stores,Cala,5455,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,185 High Street Engcobo  ,Engcobo,73,NULL,1018,-31.675325,28.002638,047 108 5018,,,Engcobo,76,Lewis Stores,Engcobo,5051,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 7 Erf 182 RE 29 Hoog Street Paul Pietersburg,Paulpietersburg,73,NULL,1019,-27.424922,30.818488,056 108 5012,,,Paulpietersburg,79,Lewis Stores,Paulpietersburg,3180,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop No 19 Mkhuhlu Plaza Shop Centre Entension 1,  Mhala Distr Mkhuhlu",Mkhuhlu,73,NULL,1020,-24.98442,31.245788,013 007 9036,,,Mkhuhlu,80,Lewis Stores,Mkhuhlu,1246,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop No 2 & 3, Erf 3238 8 Calderwood Street Entension 1, Mahala Distr Queenstown",Queenstown,73,NULL,1021,-31.89656282,26.87008047,045 514 0025,,,Queenstown,76,Lewis Stores,Queenstown,5319,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Stand 812, Shop No 4 Belfast Shopping Centre Cnr Fitzgerald &Vermooten Belfast",Belfast,73,NULL,1022,-25.69391,30.042955,013 007 9237,,,Belfast,81,Lewis Stores,Belfast,1100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,21B Pearson Street Villiers  ,Villiers,73,NULL,1023,-27.02751339,28.59877394,058 109 0139,,,Villiers,77,Lewis Stores,Villiers,9840,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,"Shop No 16 Spar Complex, Lood Str Rosh Pinah Namibia",Rosh Pinah,182,NULL,1024,-27.963588,16.757286,00264 6327 4485,00264 6327 4169,,Rosh Pinah,False,Lewis Stores,Rosh Pinah,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 2 2 Richardson Street Idutywa ,Idutywa,73,NULL,1025,-32.09761104,28.30468875,047 108 5003,,,Idutywa,76,Lewis Stores,Idutywa,5000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,42 Market Street Vryburg  ,Vryburg,73,NULL,1026,-26.95767,24.725004,053 108 5051,,,Vryburg,83,Lewis Stores,Vryburg,8601,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Shops 2122a & b Shoprite Centre Cnr Sirkel & Main Road Eldorado Park,Eldorado,73,NULL,1027,-26.291423,27.907285,087 724 4063,,,Eldorado,78,Lewis Stores,Eldorado,1811,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 36 Kwanobuhle Shopping Cen Cnr Matanzima & Bering Rd Kwanobuhle,Kwanobuhle,73,NULL,1028,-33.806253,25.396893,041 978 0044,041 978 0042,,Kwanobuhle,76,Lewis Stores,Kwanobuhle,6241,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 317, Blue Haze Mall ERF 1501 cnr  Main & Skukuza Rd Hazyview",Hazyview,73,NULL,1029,-25.04442,31.131661,013 007 9224,,,Hazyview,81,Lewis Stores,Hazyview,1242,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,18 Duitser Eloff Street Koster ,Koster,73,NULL,1030,-25.87052183,26.89921686,0140079009,,,Koster,83,Lewis Stores,Koster,0348,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Unit 11 & 12 Frans Indongo Shop Centre Erf 1339 Oshakati,Oshakati,182,NULL,1031,-17.78701494,15.70864386,00264 6522 2318,00264 6522 2316,00264 6522 2331,Oshakati,False,Lewis Stores,Oshakati,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 1 Erf 173 Tsolo ,Tsolo,73,NULL,1034,-31.31020719,28.75721112,047 108 5002,,,Tsolo,76,Lewis Stores,Tsolo,5170,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 97 Chris Hani Crossing Cnr Bierman & Brickfield Vosloorus,Vosloorus,73,NULL,1035,-26.343563,28.182248,010 018 6985,,,Vosloorus,78,Lewis Stores,Vosloorus,1475,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Erf 167 Indwe Road Lady Frere ,Lady Frere,73,NULL,1036,-31.470536,27.341432,047 108 5015,,,Lady Frere,76,Lewis Stores,Lady Frere,5410,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Erf 3707 8 Main Street Mafikeng ,Mafikeng Frere,73,NULL,1037,-25.86455544,25.64444701,018 108 5055,,,Mafikeng Frere,83,Lewis Stores,Mafikeng Frere,2745,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,A Shop Erf 135 Main Road Mqanduli,Mqanduli,73,NULL,1038,-31.81742286,28.76281562,047 108 5014,,,Mqanduli,76,Lewis Stores,Mqanduli,5080,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 4 & 5 391 Church Street Pietermaritzburg ,Pietermaritzburg,73,NULL,1039,-29.597195,30.383944,0331085007,,,Pietermaritzburg,79,Lewis Stores,Pietermaritzburg,3201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,22 Main Road Clanwilliam  ,Clanwilliam,73,NULL,1040,-32.179637,18.893312,028 054 0054,,,Clanwilliam,84,Lewis Stores,Clanwilliam,8135,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 4 Selwyn Court 14 West Street Kempton Park,Kempton Park,73,NULL,1042,-26.105932,28.228652,010 724 4060,,,Kempton Park,78,Lewis Stores,Kempton Park,1619,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 10 Terminus Shopping Centre Golf Street Klerksdorp,Klerksdorp,73,NULL,1043,-26.862929,26.66392,018 108 5021,,,Klerksdorp,83,Lewis Stores,Klerksdorp,2571,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,Shop No 6 Platinum Place Dirk Winterbach Street Burgersfort ,Burgersfort,73,NULL,1044,-24.670846,30.326888,013 007 9289,,,Burgersfort,81,Lewis Stores,Burgersfort,1150,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 12 & 13 Sun Village Shoppin Cent Doornhoek Farm Ledig,Ledig,73,NULL,1045,-25.360961,27.099384,014 007 9050,,,Ledig,83,Lewis Stores,Ledig,0316,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Bizana Square Shop Cnt Erf 94 & 95 89 Main Street Bizana,Bizana,73,NULL,1046,-30.86135,29.853979,039 200 9111,,,Bizana,76,Lewis Stores,Bizana,4800,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 2 Pick 'n Pay Centre 1 Botha Avenue Northam,Northam,73,NULL,1047,-24.95763913,27.2624851,014 007 9043,,,Northam,80,Lewis Stores,Northam,0360,08:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,"Shops 56 A & B Megamark Shopping Centre Erf 3, 3 Brownwyn Street Kriel",Kriel,73,NULL,1048,-26.249945,29.259249,017 054 0241,,,Kriel,81,Lewis Stores,Kriel,2271,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,16 Voortrekker Street Lydenburg  ,Lydenburg,73,NULL,1049,-25.093408,30.449118,013 007 9080,,,Lydenburg,81,Lewis Stores,Lydenburg,1120,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Zambezi Shopping Cnt Erf 3886 Katima Mulilo Namibia,Katima Mulilo,182,NULL,1053,-17.50145672,24.27565917,00264 6625 2474,00264 6625 2475,00264 6625 2368,Katima Mulilo,False,Lewis Stores,Katima Mulilo,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 6&7 Excelsior Compl Erf 96 cnr Eagle & Oxland Str Mthatha,Mthatha,73,NULL,1054,-31.596251,28.785146,047 108 5019,,,Mthatha,76,Lewis Stores,Mthatha,5100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 2 Erf 1979 13 Henshall Street Neslpruit,Nelspruit,73,NULL,1055,-25.469569,30.980381,013 007 9288,,,Nelspruit,81,Lewis Stores,Nelspruit,1201,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Unit 8 & 9 Mangetti Mall Erf 1722 Rundu Namibia,Rundu,182,NULL,1056,-17.9118908,19.77445708,00264 6625 5166,00264 6625 5313,00264 6625 5178,Rundu,False,Lewis Stores,Rundu,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 1 Erf 141 Main Road Outjo,Outjo,182,NULL,1058,-20.108511,16.154611,00264 6731 2015,00264 6731 2046,00264 6731 2035,Outjo,False,Lewis Stores,Outjo,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop No 3A Tabankulu Mall Erf 93, Main Street Tabankulu",Tabankulu,73,NULL,1059,-30.953377,29.303223,035 514 0140,,,Tabankulu,76,Lewis Stores,Tabankulu,5130,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 10 Boitekong Mall cnr Thlou Str & R510 Rd Boitekong,Boitekong,73,NULL,1060,-25.61077241,27.27561123,014 007 9175,,,Boitekong,76,Lewis Stores,Boitekong,0300,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop 12, Spar Centre Erf 4177, Marapong Proper Relebogile Street Marapong",Marapong,73,NULL,1061,-23.655138,27.619337,014 007 9044,,,Marapong,80,Lewis Stores,Marapong,0556,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Unit 10 Lobatsi Shopping Centre Khama Avenue Lobatsi,Lobatsi,101,NULL,1063,-25.225618,25.669985,00267 533 0008,,,Lobatsi,False,Lewis Stores,Lobatsi,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 34, Protea Glen ShpC cnr R558 & Protea Blvd Protea Glen Soweto",Protea Glen,73,NULL,1064,-26.276518,27.812062,010 510 8589,,,Protea Glen,78,Lewis Stores,Protea Glen,1819,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,"Shop 19, Fingoland Mall Erf 501 cnr N2 & Road No DR8372 Butterworth",Butterworth,73,NULL,1066,-32.33378874,28.14258122,047 108 5006,,,Butterworth,76,Lewis Stores,Butterworth,4960,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop 72, Race Course Mall 12292224 & 12292970 Thetsane Maseru, Lesotho",Maseru,155,NULL,1067,-29.336081,27.483773,00266 2232 6398,00266 2232 0476,00266 2232 0432,Maseru,False,Lewis Stores,Maseru,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop LS 37 Atlantis City Centre Westfleur Circle Atlantis,Atlantis,73,NULL,1068,-33.562213,18.49219,021 054 4498,,,Atlantis,84,Lewis Stores,Atlantis,7349,08:00 - 17:00,09:00 - 14:00,09:00 - 13:00
+NULL,"Shop 10 Time Square Centre Erf 2646 Outapi, Namibia",Outapi,182,NULL,1069,-17.50698376,14.99062237,00264 6525 1442,00264 6525 1587,00264 6525 1438,Outapi,False,Lewis Stores,Outapi,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No15 Marikana Square 330 Main Road Marikana,Marikana,73,NULL,1070,-25.69467563,27.48977709,014 007 9131,,,Marikana,83,Lewis Stores,Marikana,0284,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop No 13 African City Building Gwambile Street Mbabane Swaziland,Mbabane,219,NULL,1071,-26.3237423,31.14386954,00268 2404 8909,00268 2404 8941,00268 2404 9647,Mbabane,False,Lewis Stores,Mbabane,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 2 Boxer Shop Cnt Erf 1316 60 Main Street Sterkspruit,Sterkspruit,73,NULL,1073,-30.52935036,27.37384493,051 054 5291,,,Sterkspruit,76,Lewis Stores,Sterkspruit,9762,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 16 Boxer Centre Main road Elliotdale,Elliotdale,73,NULL,1074,-31.969258,28.684894,087 724 4067,,,Elliotdale,76,Lewis Stores,Elliotdale,5070,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop A 11 Hammersdale Junction cnr Kunene Rd & R35 Hammersdale,Hammersdale,73,NULL,1075,-29.80200377,30.62863034,031 054 9632,,,Hammersdale,79,Lewis Stores,Hammersdale,3700,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop A 2 Central Square cnr Bell & Richard Str Idutywa,Idutywa,73,NULL,1076,-32.09765176,28.30616076,041 054 5481,,,Idutywa,76,Lewis Stores,Idutywa,5000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop GF 7 Gwashamba Mall Main Road Ondangwa,Ondangwa,182,NULL,1077,-17.914587,15.972027,00264 6524 0510,00264 6524 0987,00264 6524 0526,Ondangwa,False,Lewis Stores,Ondangwa,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 2 Erf 1026 Hage Geingob Road Katima Mulilo Namibia,Katima Mulilo,182,NULL,1078,-17.500578,24.27279,00264 6625 2906,00264 6625 2907,00264 6625 2908,Katima Mulilo,False,Lewis Stores,Katima Mulilo,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 7 Theku Plaza Portion 4 Blaubosch Laagt Rds BR11 & BR6 Madadeni Road Madadeni,Madadeni,73,NULL,1079,-27.784639,30.090928,034 108 6025,,,Madadeni,79,Lewis Stores,Madadeni,2951,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 38 Jozini Mall P449 Highway Jozini,Jozini,73,NULL,1081,-27.43219517,32.10014105,035 514 0115,,,Jozini,79,Lewis Stores,Jozini,3969,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop 101 Modi Mall cnr Thabo Mbeki Drive & Limpopo Street Modimolle,Modimolle,73,NULL,1083,-24.696035,28.406973,014 007 9174,,,Modimolle,80,Lewis Stores,Modimolle,0510,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop No 1D Main Hospital Rd (P501) Moruleng ,Moruleng,73,NULL,1084,-25.16419375,27.16855547,013 007 9230,,,Moruleng,83,Lewis Stores,Moruleng,0318,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,179 Market Street Erf 178 Stella ,Stella,73,NULL,1085,-26.55179718,24.86660956,021 054 5174,,,Stella,83,Lewis Stores,Stella,8650,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,"Shp 23, King Senzang ShpC Cnr King Dinizulu Highway Princess Magogo Avenue Ulundi",Ulundi,73,NULL,1086,-28.30260937,31.42155099,056 108 5009,,,Ulundi,79,Lewis Stores,Ulundi,3838,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,41 Voortrekker Street Coligny  ,Coligny,73,NULL,1087,-26.33034364,26.32003785,018 108 5062,,,Coligny,83,Lewis Stores,Coligny,2725,07:30 - 17:00,07:30 - 13:00,CLOSED
+NULL,30 Victoria Street Melmoth  ,Melmoth,73,NULL,1088,-28.59146135,31.39968013,035 514 0165,,,Melmoth,79,Lewis Stores,Melmoth,3835,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 8 Kwa Guqa Mall Erf 11250 cnr N4 Highway Kwa Guqa Ext 15 Emalahleni,Kwa Guqa,73,NULL,1089,-25.871387,29.130905,013 007 9228,,,Kwa Guqa,81,Lewis Stores,Kwa Guqa,1073,08:00 - 18:00,08:00 - 15:00,09:00 - 13:00
+NULL,"Shop No 40 Erf 509, Lethlabile Mall Lethlabile ",Lethlabile,73,NULL,1092,-25.46977764,27.83002152,012 054 6371,,,Lethlabile,83,Lewis Stores,Lethlabile,0264,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop no 10A Mtaba Shopping Mall Portion 1 of lot 56 Umfolozi No 13319,Mtubatuba,73,NULL,1093,-28.41503229,32.18046913,035 514 0145,,,Mtubatuba,79,Lewis Stores,Mtubatuba,3935,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop no44 Mayfield Square Luried Road Daveyton,Daveyton,73,NULL,1095,-26.134984,28.410061,010 510 3647,,,Daveyton,78,Lewis Stores,Daveyton,1520,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 2a Kudebe Douglas Rend Road Hammanskraal, Pretoria ",Hammanskraal,73,NULL,1096,-25.40792652,28.2816835,012 054 5274,,,Hammanskraal,78,Lewis Stores,Hammanskraal,0400,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,"Shop 9, Mandeni Plaza Portn Farm Amanda 14053 168822 Thokoza Road Sundumbili",Mandeni,73,NULL,1097,-29.14396082,31.40440146,032 108 5005,,,Mandeni,79,Lewis Stores,Mandeni,4491,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,17 Chf Albert Luthuli Str Stanger  ,Stanger,73,NULL,1098,-29.33853431,31.29158875,032 108 5001,,,Stanger,79,Lewis Stores,Stanger,4450,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Cnr Main & Richardson St Graskop  ,Graskop,73,NULL,1099,-24.933497,30.84041,013 007 9227,,,Graskop,81,Lewis Stores,Graskop,1270,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop U 19 Eyethu Orange Farm Mall Erf15673, OFarm Ext4 Orange Farm",Orange Farm,73,NULL,1100,-26.471073,27.870246,016 514 0134,,,Orange Farm,78,Lewis Stores,Orange Farm,1984,09:00 - 17:00,09:00 - 14:00,09:00 - 13:00
+NULL,Shop 19 Vaalwater Oasis Voortrekker Street Vaalwater,Vaalwater,73,NULL,1101,-24.301037,28.113285,014 007 9045,,,Vaalwater,80,Lewis Stores,Vaalwater,0530,08:00 - 17:30,08:00 - 15:00,CLOSED
+NULL,Shop no3 Margate Taxi Rank Centre Margate ,Margate,73,NULL,1102,-30.865146,30.363206,039 200 9101,,,Margate,79,Lewis Stores,Margate,4275,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,24 Park Street Upington  ,Upington,73,NULL,1103,-28.459162,21.243715,054 109 9029,,,Upington,82,Lewis Stores,Upington,8800,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 14 Izingolweni Shpng Centre Izingolweni ,Izingolweni,73,NULL,1104,-30.785229,30.131002,039 200 9113,,,Izingolweni,79,Lewis Stores,Izingolweni,4260,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 3 & 4 CentaneVillage Shopping Bell Street Centane,Centane,73,NULL,1105,-32.505849,28.3165733,,043 001 0055,,Centane,76,Lewis Stores,Centane,4980,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 3 Wolseley Shopping Centre Cnr Collard & Merriman Wolseley,Wolseley,73,NULL,1106,-33.416527,19.200615,023 108 5166,,,Wolseley,84,Lewis Stores,Wolseley,6830,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 21 Phokeng Mall R565 Sun City Main Road Phokeng,Phokeng,73,NULL,1107,-25.57676064,27.15900774,014 007 9170,,,Phokeng,83,Lewis Stores,Phokeng,0335,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no10D Thaba Mall Old Warmbaths Road Thabazimbi,Thabazimbi,73,NULL,1108,-24.58945821,27.3990689,014 007 9172,,,Thabazimbi,80,Lewis Stores,Thabazimbi,0380,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,Shop No 30 Emoyeni Mall Jupiter Street Pienaar,Pienaar,73,NULL,1109,-25.411096,31.127314,013 007 9199,,,Pienaar,80,Lewis Stores,Pienaar,1214,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 39 Tugela Ferry Mall Lease 1, farm Mthemba No17484,  Msinga Tugela Ferry",Tugela Ferry,73,NULL,1110,-28.755302,30.442119,0331085005,,,Tugela Ferry,79,Lewis Stores,Tugela Ferry,3010,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop 41, Lusiki Plaza Erf 2810, Lusikisiki Road Lusikisiki Ext 4 Townshp Lusikisiki",LUSIKISIKI,73,NULL,1111,-31.357452,29.563877,039 200 9114,,,LUSIKISIKI,76,Lewis Stores,LUSIKISIKI,4820,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 22, Qumbu Shpng Cntr 266 Hope Street (N2) Qumbu ",Qumbu,73,NULL,1112,-31.161586,28.869879,047 108 5009,,,Qumbu,76,Lewis Stores,Qumbu,5180,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 11 Champ Style Complex Main Road Opuwo,Opuwo,182,NULL,1117,-18.060244,13.841187,00264 6527 7029,00264 6527 7028,00264 6527 7027,Opuwo,False,Lewis Stores,Opuwo,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Plot No 06472138 Main Street Mafeteng ,MAFETENG,155,NULL,1118,-29.8223,27.244495,00266 2270 1443,00266 2270 1445,00266 2270 1446,MAFETENG,False,Lewis Stores,MAFETENG,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Lower Moyeni Quthing  ,QUTHING,155,NULL,1119,-30.4002067,27.69959063,00266 2275 0785,00266 2275 0788,,QUTHING,False,Lewis Stores,QUTHING,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop GF07, Metlife Plaza Cnr Sam Nujomo & 10th Rd Walvis Bay Namibia",WALVIS BAY,182,NULL,1120,-22.957277,14.498901,00264 6420 6688,00264 6420 5098,00264 6422 0423,WALVIS BAY,False,Lewis Stores,WALVIS BAY,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Wilhelm Zeralia Street Omaruru  ,OMARURU,182,NULL,1121,-21.418898,15.955926,00264 6457 0836,00264 6457 0916,00264 6457 1101,OMARURU,False,Lewis Stores,OMARURU,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Warehouse F,G & H Casa Angola Complex Plot 23 Oshikango",OSHIKANGO,182,NULL,1122,-17.395802,15.891913,00264 6526 5499,00264 6526 5066,00264 6526 5578,OSHIKANGO,False,Lewis Stores,OSHIKANGO,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no1 Haskins Street Francistown ,Francistown,101,NULL,1123,-21.1691019469872,27.5111823226133,00267 241 5247,00267 241  5406,00267 241 5264,Francistown,False,Lewis Stores,Francistown,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop G72 Rail Park Mall Gabarone ,GABORONE,101,NULL,1124,-24.627712,25.934688,00267 391 6441,00267 391 6483,00267 391 6442,GABORONE,False,Lewis Stores,GABORONE,9999,09:00 - 18:00,09:00 - 14:00,CLOSED
+NULL,Shop No 4 Ghanzi Shopping Centre Lobatsi Shopping Centre Ghanzi,GHANZI,101,NULL,1125,-21.694747,21.648777,00267 659 7607,00267 659 7863,00267 659 7861,GHANZI,False,Lewis Stores,GHANZI,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Plot 3231 Mahalapye Botswana ,MAHALAPYE,101,NULL,1126,-23.1090733125898,26.8336639082482,00267 472 0120,00267 472 0443,,MAHALAPYE,False,Lewis Stores,MAHALAPYE,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Lot No 425 Mochudi  ,MOCHUDI,101,NULL,1127,-24.3933346,26.1407447,00267 577 7304,00267 577 9646,,MOCHUDI,False,Lewis Stores,MOCHUDI,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Lot 9192 Ngwane Street Manzini Swaziland,MANZINI,219,NULL,1129,-26.49568225,31.37997991,00268 2505 2893,00268 2505 9883,00268 2505 9281,MANZINI,False,Lewis Stores,MANZINI,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Sikhonkhwane Street Nhlangano Swaziland ,NHLANGANO,219,NULL,1130,-27.11374019,31.19641082,00268 2207 8371,00268 2207 7249,,NHLANGANO,False,Lewis Stores,NHLANGANO,9999,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shp 49 Boitumelo Junction cnr Phakathi dr & Nkoane Thabong ,Thabong,73,NULL,1131,-27.96481,26.808789,057 109 0102,,,Thabong,77,Lewis Stores,Thabong,9478,09:00 - 18:00,09:00 - 13:00,09:00 - 13:00
+NULL,Shop 5 Mount Ayliff Mall Main Road Mount Ayliff ,MOUNT AYLIFF,73,NULL,1132,-30.79948418,29.36612342,039 200 9109,,,MOUNT AYLIFF,76,Lewis Stores,MOUNT AYLIFF,4735,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop No 64 Botshabelo Mall Jazzman Street Botshabelo,BOTSHABELO,73,NULL,1133,-29.201974,26.712146,051 054 5238,,,BOTSHABELO,77,Lewis Stores,BOTSHABELO,9781,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop no8 Steilloop Shopping Centre N11 Road Steilloop,STEILLOOP,73,NULL,1134,-23.430513,28.619962,015 007 9039,,,STEILLOOP,80,Lewis Stores,STEILLOOP,0617,07:30 - 17:30,08:00 - 15:00,CLOSED
+NULL,Shop 12 Tonga Mall Phase2 Portion of Farm Tonga No 475JU Tonga,TONGA,73,NULL,1135,-25.685312,31.781982,013 007 9138,,,TONGA,81,Lewis Stores,TONGA,1331,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 31, Phola Park Shpng Located on Moloto Road Phola Park Kwamhlanga",PHOLA PARK,73,NULL,1136,-25.40268489,28.77267234,013 007 9225,,,PHOLA PARK,81,Lewis Stores,PHOLA PARK,1022,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,"Shop 2 Special  Supermarket Bld Erf 57, Main Road Omuthiya",OMUTHIYA,182,NULL,1137,-18.358823,16.580117,00264 6524 4010,00264 6524 4258,00264 6524 4246,OMUTHIYA,False,Lewis Stores,OMUTHIYA,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Unit 4 Town Square Erf 112, 113, 114 Oshifo Namibia",OSHIFO,182,NULL,1138,-17.43447739,14.43071008,00264 6527 2158,00264 6527 2119,00264 6527 2192,OSHIFO,False,Lewis Stores,OSHIFO,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop no 3B Pick n Pay Shopp Centre Rhodium Avenue Steelpoort,STEELPOORT,73,NULL,1139,-24.729961,30.207448,013 007 9129,,,STEELPOORT,80,Lewis Stores,STEELPOORT,1133,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop 01A Thulamahashe Mal Erven 64  100 (ERF 1137) Cnr Main & Skukuza Roads Thulamahashe B,Thulamahashe,73,NULL,1140,-24.722749,31.210711,013 007 9243,,,Thulamahashe,81,Lewis Stores,Thulamahashe,1365,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Unit 24, Greenwell Complx Eenhana Namibia ",Eenhana,182,NULL,1141,-17.48127125,16.3320447,00264 6526 3993,00264 6526 3925,,Eenhana,False,Lewis Stores,Eenhana,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 7C Mams Mall Mamelodi East Pretoria,Mamelodi,73,NULL,1142,-25.70288754,28.42136252,012 054 6873,,,Mamelodi,78,Lewis Stores,Mamelodi,0002,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,CO24 Bopedi Shopp Centre Main Road Apel ,Apel,73,NULL,1148,-24.420616,29.789584,015 007 8213,,,Apel,80,Lewis Stores,Apel,0739,08:00 - 18:00,08:00 - 15:00,CLOSED
+NULL,Shop U045 Tlhabane Square Cnr Monareng & Motsatsi Tlhabane ,Tlhabane,73,NULL,1150,-25.64651853,27.21263703,014 007 9428,,,Tlhabane,83,Lewis Stores,Tlhabane,0299,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop 2A Motherwell Shopping Centr Cnr Tynira & Nyara Stree Motherwell,Motherwell,73,NULL,1154,-33.81079,25.59432,041 054 5370,,,Motherwell,76,Lewis Stores,Motherwell,6211,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 38B,  Nkuna Kraal Nkuzana  ",Nkuzana,73,NULL,1175,-23.211803,30.309637,015 007 8209,,,Nkuzana,80,Lewis Stores,Nkuzana,0920,08:00 - 17:00,08:00 - 13:00,09:00 - 15:00
+NULL,Shop no23 Libode Shopping Centre Erf 1294 Libode,Libode,73,NULL,1156,-31.54099368,29.01784568,043 054 0419,,,Libode,76,Lewis Stores,Libode,5160,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop no08a, Ekaya Mall Cnr R580 & R549 Roads Embalenhle ",Embalenhle,73,NULL,1176,-26.524455,29.094460,017 054 0245,,,Embalenhle,81,Lewis Stores,Embalenhle,2285,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,Shop 10a Khorixas Shp Cnt Main Road Khorixas Namibia,Khorixas,182,NULL,1151,-20.37404043,14.9697083,00264 6733 2359,00264 6733 2276,00264 6733 2371,Khorixas,False,Lewis Stores,Khorixas,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 60, Hebron Mall Hebron Road (M20) Hebron ",Hebron,73,NULL,1157,-25.556052,28.044129,012 054 5658,,,Hebron,83,Lewis Stores,Hebron,0193,08:00 - 17:00,08:00 - 15:00,08:00 -14:00
+NULL,Shop 2 (b) Highflats Centre Main Road Highflats,Highflats,73,NULL,1158,-30.25882,30.19393,035 514 0118,,,Highflats,79,Lewis Stores,Highflats,3306,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 8, Mamaila Mall D3150 Road Mamaila ",Mamaila,73,NULL,1159,-23.372732,30.207401,015 007 9068,,,Mamaila,80,Lewis Stores,Mamaila,0813,08:00 - 17:00,08:00 - 13:00,09:00-13:00
+NULL,"Shop 2, Voortrekker Cntr Main Road Porterville ",Porterville,73,NULL,1160,-33.012328,18.9932,022 108 5007,,,Porterville,84,Lewis Stores,Porterville,6810,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 111 Protea Gardens Mall Cnr Alekhine & Chris Han Protea South,Protea South,73,NULL,1177,-26.285779,27.848612,012 054 6871,,,Protea South,78,Lewis Stores,Protea South,1818,08:00-17:00,08:00-13:00,
+NULL,Shop 344 Kwamnyandu Shp 341 Griffiths Mxenge High Umlazi D Umlazi, Umlazi,73,NULL,1161,-29.972046,30.903904,031 0546 799,,, Umlazi,79,Lewis Stores, Umlazi,4031,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 7, Kathlehong Crossi Erf 2192m cnr Venus Drive & Kaunda Stre Kathlehong South",Kathlehong South,73,NULL,1162,-26.377188,28.183492,010 510 5722,,,Kathlehong South,78,Lewis Stores,Kathlehong South,1431,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 15 Takelkop Mall Tafelkop  ,Tafelkop,73,NULL,1164,-25.029893,29.534244,014 007 9077,,,Tafelkop,80,Lewis Stores,Tafelkop,0474,08:00 - 17:00,08:00 - 17:00,09:00 - 13:00
+NULL,Shop no1 situated on erf 106 Chatham Street Mthatha,Mthatha,73,NULL,1165,-31.587447,28.792905,047 108 5005,,,Mthatha,76,Lewis Stores,Mthatha,5100,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,"Shop 3, Midway Centre Jan van Riebeeck Drive Mbekweni ",Mbekweni,73,NULL,1155,-33.673508,18.998052,0210549040,,,Mbekweni,84,Lewis Stores,Mbekweni,7655,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 32 Mall Moutsiya Cnr R573 & R568 Roads Siyabuswa ,Siyabuswa,73,NULL,1172,-25.149114,29.085872,013 007 9197,,,Siyabuswa,81,Lewis Stores,Siyabuswa,0472,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop 12, Ngqeleni Mall Main Road Ngqeleni ",Ngqeleni,73,NULL,1178,-31.671970,29.027746,035 514 0166,,,Ngqeleni,76,Lewis Stores,Ngqeleni,5140,,,
+NULL,"Shop 13a, Katale Square Marapyane  ",Marapyane,73,NULL,1174,-25.01021944,28.78514722,013 007 9236,,,Marapyane,81,Lewis Stores,Marapyane,0400,08:00-17:00,08:00-13:00,08:00-13:00
+NULL,Shop no6 Gingindlovu Shopping Cent Cnr Main & Commercial Rd Gingindlovu,Gingindlovu,73,NULL,1173,-29.03123611,31.58388333,035 514 0148,,,Gingindlovu,79,Lewis Stores,Gingindlovu,3800,8:00 - 17:00,08:00 - 15:00,CLOSED
+NULL,Shop 5 269 Independence Avenue Windhoek Namibia,Windhoek,182,NULL,1167,-22.564186,17.084003,00264 61 232074,00264 61 236010,00264 61 401416,Windhoek,False,Lewis Stores,Windhoek,9000,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,44 Trichardsdal Way Letsitele Tshilamba ,Letsitele,73,NULL,1168,-23.890896,30.386196,015 007 9485,,,Letsitele,80,Lewis Stores,Letsitele,0885,08:00 - 17:00,08:00 - 13:00,CLOSED
+NULL,Shop 25 Tshaakhuma Mall Tshakhuma ,Tshakhuma,73,NULL,1169,-23.063768,30.30697,015 007 9486,,,Tshakhuma,80,Lewis Stores,Tshakhuma,0951,08:00 - 17:00,08:00 - 13:00,08:00 - 13:00
+NULL,"Shop 35A The crossing Shopping Cen Cnr Nelson Mandela Drive & Sekame Street, Mafikeng",Mafikeng,73,NULL,1166,-25.836222,25.635294,018 108 5036,,,Mafikeng,83,Lewis Stores,Mafikeng,2745,08:00 - 17:00,08:00 - 13:00,09:00 - 13:00
+NULL,"Shop L6, Kwabhaca Mall LCM Ludidi Street N2 Mount Frere ",Mount Frere,73,NULL,1171,-30.903315,28.991357,039 200 9103,,,Mount Frere,76,Lewis Stores,Mount Frere,5090,08:00 - 17:00,08:00 - 15:00,09:00 - 13:00
+NULL,"Shop no 4, M&G Centre Mohale Street (Plot 12594 Mohales Hoek Lesotho",Mohales Hoek,155,NULL,1170,-30.151847,27.480601,0026622785855,0026622785085,0026622785095,Mohales Hoek,False,Lewis Stores,Mohales Hoek,9999,08:00 - 18:00,08:00 - 15:00,09:00 - 13:00

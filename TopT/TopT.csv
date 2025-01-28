@@ -1,0 +1,97 @@
+ID,Slug,Title,Manager,Telephone,City,Address Line 1,Address Line 2,Email,Store Code,Website,Hours
+11,butterworth,Butterworth,Zimkita Kenqa,047 491 0210,Butterworth,29 King St cnr Scanlan Rd Butterworth,,toptButterworthbm@topt.co.za,H050,1,08:00am - 05:00pm
+12,east-london,East London,Nolly Tusha,043 722 0311,East London,22 St Pauls Street Arcadia,,toptelbm@topt.co.za,H030,1,08:00am - 05:00pm
+23,king-williams-town,King Williams Town,Dumisani Mapakela,043 642 1652,King Williams Town,74 Cathcart Street,,kwt@topt.co.za,H024,1,08:00am - 05:00pm
+44,motherwell,Motherwell,Melikhaya Daba,041 489 0020,Motherwell,Erf 17679 Ngomyama Street,Boxer Centre Motherwell,toptmotherwellbm@topt.co.za,H048,1,08:00am - 05:00pm
+45,lusikisiki,Lusikisiki,Sipesihle Nontununu,039 253 4009,Lusikisiki,"Vimbelo Complex,76 Main Street,Lusikisiki, 4820","Vimbelo Complex, Next to Dunlop",lusikisikibm@topt.co.za,H089,1,08:00am - 05:00pm
+57,queenstown,Queenstown,Mfihlo Thembalethu,045 838 2023,Queenstown,123 Cathcart Road,,toptqueencashier@topt.co.za,H033,1,08:00am - 05:00pm
+69,umtata,Umtata,Lindiwe Nopote,047 531 0766,Umtata,61 Madeira Street,,toptumtata@topt.co.za,H028,1,08:00am - 05:00pm
+76,mount-frere,Mount Frere,Avela Ngetu,039-940 4084/25,Mount Frere,4 Madzikane street ,,mountfrerebm@topt.co.za,H073,1,08:00am - 05:00pm
+128,uitenhage,Uitenhage,MELIKHAYA DABA,041 450 6602,Uitenhage,"cnr Roberts & Durban Street, Uitenhage",,uitenhagebm@topt.co.za,H058,1,08:00am - 05:00pm
+133,stanford-road,Stanford Road,Brandon Polley,041 450 6603,"Stanford Road, Port Elizabeth","30 Stanford Rd, Korsten, Port Elizabeth, 6020",Korsten,stanfordroadbm@topt.co.za,H080,1,08:00am - 05:00pm
+152,matatiele,Matatiele,Sipesihle Notununu,039 737 3532,Matatiele,"32 West Street, Matatiele",,matatielebm@topt.co.za,H096,1,08:00am - 05:00pm
+5,bloemfontein,Bloemfontein,Maria Sani,071 856 1848,Bloemfontein,"Shop 1, 74 Harvey Road, Oranjesig, Bloemfontein, 9301",74 Harvey Road Bloemfontein,ttbloembm@topt.co.za,T060,1,08:00am - 05:00pm
+6,botshabelo,Botshabelo,Mbulelo Tantsi ,051 534 0083,Botshabelo,"23 Blue Street, Botshabelo IA, Botshabelo,9781",,ttbotshabelobm@topt.co.za,T061,1,08:00am - 05:00pm
+73,welkom,Welkom,Augustina Monatisa,064 933 1570,Welkom,"214 Jan Hofmeyer Road, Voorspoed, Welkom, 9460",,toptwelkombm@topt.co.za,T063,1,08:00am - 05:00pm
+2,alberton,Alberton,Nokuthula Sithole,011 869 1503,Alberton,"Libertas Building, Corner Of Voortrekker & Looe Street",New Redruth,toptalbcashier@topt.co.za,T015,1,08:00am - 05:00pm
+4,benoni,Benoni,Mlungisi Khanyile,011 421 0213,Benoni,36 Tom Jones Avenue,,toptbenoni@topt.co.za,T001,1,08:00am - 05:00pm
+7,bronkhorstspruit,Bronkhorstspruit,Tebogo Mohlala,013 492 1962,Bronkhorstspruit,"41 Lanham Street, Bronkhorstspruit 1020",,toptbhsbm@topt.co.za,H072,1,08:00am - 05:00pm
+8,bruma,Bruma,Brian Hlongwane,011 620 3104,Bruma,9 Arena Close,,toptbrumabm@topt.co.za,T037,1,08:00am - 05:00pm
+28,kwa-thema,Kwa Thema,Lunga Hlongwani,011 737 1173,Kwa Thema,"Cnr 12th & 2nd Roads, Kwa-Thema, Brakpan,",,toptkwathemabm@topt.co.za,T033,1,08:00am - 05:00pm
+32,lenasia,Lenasia,Cindy Muliwa,011 857 1556,Lenasia,Main Lawley Road,,toptlensmanager@topt.co.za,T003,1,08:00am - 05:00pm
+56,pretoria-west,Pretoria West,Nomsa Letsoalo,076 576 2603,Pretoria West,Shop 1 Crown Court Pretoria West,135 Church Street,toptpretoriawest@topt.co.za,T009,1,08:00am - 05:00pm
+58,randfontein,Randfontein,Tebogo Taunyane,011 692 1067,Randfontein,8 Main Reef Road,,toptrandbm@topt.co.za,T017,1,08:00am - 05:00pm
+59,roodepoort,Roodepoort,Busisiwe Mthimunye,011 674 2134,Roodepoort,Cnr Anvil & Granville St Robertville,,toptroodepoort@topt.co.za,T004,1,08:00am - 05:00pm
+62,silverton,Silverton  ,Rulani Manganyi,0128041158,Silverton,cnr Dykor and R104 Silverton,,toptsilvertonbm@topt.co.za,T030,1,08:00am - 05:00pm
+63,southgate,Southgate,Thabile Majola,011 494 9000,Southgate,Rifle Range Road (next to Southgate Mall),,southgatebm@topt.co.za,T019,1,08:00am - 05:00pm
+64,spruitview,Spruitview,Katlego Boea,011 866 7056,Spruitview,cnr Moagi & Brickfield Roads,,toptspruitview@topt.co.za,T034,1,08:00am - 05:00pm
+66,tembisa,Tembisa,Lindiwe Mongwe,(011) 316-0107,Tembisa,Corner Olifantsfontein and Madiba drive,,topttembisa@topt.co.za,T010,1,08:00am - 05:00pm
+70,vanderbijlpark,Vanderbijlpark,Tommie Engelbrecht,016 933 1951,Vanderbijlpark,Rabie Street,,toptvdbpark@topt.co.za,T002,1,08:00am - 05:00pm
+132,dobsonville,Dobsonville,Arent Chauke ,010 229 0113,Dobsonville,301 Elias Motsoaledi Road Mmesi Park,"Mmesi Park, 1863 (Next to CTM)",dobsonvillebm@topt.co.za,T039,1,08:00am - 05:00pm
+144,cosmo,Cosmo,Luckyman Hlongwane,010 213 4019,Cosmo City,"Shop 33, Cnr South Africa Drive & Central Republic Street, Cosmo City Ext 6",,cosmocitybm@topt.co.za,T078,1,08:00am - 05:00pm
+148,mamelodi,Mamelodi,Phumudzo Tshamano,0128140002,Mamelodi,"2837 Corner of Real Rovers & Koporo Cresent, Mamelodi",,mamelodibm@topt.co.za,T084,1,08:00am - 05:00pm
+153,mabopane,Mabopane,Bongani Sbusiso Mokgoshi,012 701 0397,Pretoria,ERF 20 7470 Ponelopele Street,"Mabopane, Next to Build It Mabopane",mabopanebm@topt.co.za,T047,1,08:00am - 05:00pm
+157,birch-acres,Birch Acres,Rabapane Predance,010 271 3625,Kempton Park,"Isimuku Street, Birch Acres, Kempton Park, 1618",,burchacresbm@top.co.za,T038,1,08:00am - 05:00pm
+13,empangeni,Empangeni,Edgar Msibi,035 787 0097,Empangeni,3 Ngwelezane Road Kuleka,,toptempangeni@topt.co.za,H107,1,08:00am - 05:00pm
+31,ladysmith,Ladysmith,Sboniso Khumalo,036 631 0056,Ladysmith,81 Murchison Street,,toptladysmithbm@topt.co.za,H025,1,08:00am - 05:00pm
+33,kokstad,Kokstad,James Mbewu,039 727 1167,Kokstad,"59 Hope Street, Kokstad.",,kokstadbm@topt.co.za,H070,1,08:00am - 05:00pm
+48,newcastle,Newcastle,Mvelo Mlaba,034 312 3175,Newcastle,"No 16 Kirkland Road, Kirkland Park, Shop No 7",Next To Factory Plaza,toptnewcastle@topt.co.za,H018,1,08:00am - 05:00pm
+53,pietermaritzburg,Pietermaritzburg,Banothile Dlamini,033 342 2448,Pietermaritzburg,293 Moses Mabhida Rd,,toptpmb@topt.co.za,H022,1,08:00am - 05:00pm
+55,mtubatuba,Mtubatuba,Siyethemba Mahlangu,035 550 0251,Mtubatuba,"Shop no 2 & 3 Mtubatuba Mall, Cnr P237 & Nyathi Road, Mtubatuba, 3935",,toptmtubatuba@topt.co.za,H106,1,08:00am - 05:00pm
+72,vryheid,Vryheid,Ayanda Hlongwane,034 980 2233,Vryheid,"211 Utrecht Street, Vryheid, 3100",,toptvryheid@topt.co.za,H102,1,08:00am - 05:00pm
+129,ulundi,Ulundi,Melusi Makhathini,035 870 0281,Ulundi,"King Senzangakhona Centre, CNR Princess Magogo & Princess",,ulundibm@topt.co.za,H061,1,08:00am - 05:00pm
+137,jozini,Jozini,Silo Mthethwa,035 426 0023,Jozini,"Nsinde Street, Main Rd, Jozini",,jozinibm@topt.co.za,H105,1,08:00am - 05:00pm
+147,piet-retief,Piet Retief,Nhlanhla Buthelezi,017 414 0013,Piet Retief ,"Cnr Kotze & Zuident Street, Piet Retief 2380",,pietretiefbm@topt.co.za,H103,1,08:00am - 05:00pm
+150,hammarsdale,Hammarsdale,Mandla Mtshali,031 331 0058 ,Hammarsdale,"HAMMARSDALE JUNCTION MALL, CNR KUNENE ROAD & R25, HAMMARSDALE",,Hammarsdalebm@topt.co.za,H099,1,08:00am - 05:00pm
+154,pongola,Pongola,Lungelo Khumalo,034 426 0013,Piet Retief,"238 PIET RETIEF ROAD, PONGOLA",,pongolabm@topt.co.za,H104,1,08:00am - 05:00pm
+160,manguzi,Manguzi,Sphamandla Ngcobo ,035 426 0027,Manguzi,"R22 Main Road,Next to Izy Home Furnitures & Appliances, Manguzi, 3793",,toptmanguzibmBM@topt.co.za,H101,1,08:00am - 05:00pm
+161,umzimkhulku,Umzimkhulku,James Mbewu,039 426 0001,Umzimkhulu,"SHOP 6, UMZIMKHULU VALUE MALL, P601-2, UMZIMKHULU 4635",,umzimkhulubm@topt.co.za,H097,1,08:00am - 05:00pm
+18,giyani,Giyani,Simeone Makhuvele,066 331 0319,Giyani,Main Road,Horizon Mall,toptgiyani@topt.co.za,T048,1,08:00am - 05:00pm
+21,jane-furse,Jane Furse,Kimberly Makola,078 044 9491,Jane Furse,"Stand 20012, Vergelegen B, Mohlala Street, Jane Furse 1085",,toptjane@topt.co.za,T092,1,08:00am - 05:00pm
+35,louis-trichardt,Louis Trichardt,Khathutshelo Muravha ,072 115 8042,Louis Trichardt,74/24 Commercial Street,louis trichardt,toptltbm@topt.co.za,T052,1,08:00am - 05:00pm
+38,malamulele,Malamulele,Sibusiso Mafumo,066 330 8453,Malamulele,Site 1281 Malamulele,,malamulelebm@topt.co.za,T054,1,08:00am - 05:00pm
+39,matoks,Matoks,Phillip Galane,072 882 2972,Matoks,Stand 2759 N1 Highway ,,toptmatoks@topt.co.za,T051,1,08:00am - 05:00pm
+41,lephalale,Lephalale,Clement Mabasa,076 349 6732,Lephalale,"Stand No. 443 Magnolia Building,Jacobus Street Lephalale ","Magnolia Building,Jacobus Street",lephalalebm@topt.co.za,T058,1,08:00am - 05:00pm
+43,mokopane,Mokopane,Kgomotso Ndala ,076 956 8583,Mokopane,80 Nelson Mandela Drive,,toptmokopanebm@italtile.co.za,T059,1,08:00am - 05:00pm
+46,musina,Musina,Hangwani Mulaudzi,066 329 8747,Musina,Stand 2075,Cnr  N1 Highway& Pat Harrison Street,toptmusina@topt.co.za,T049,1,08:00am - 05:00pm
+54,polokwane,Polokwane,Elizabeth Sakala,078 027 2868,Polokwane,79 Hoof Street,Superbia,toptpolokwane@topt.co.za,T045,1,08:00am - 05:00pm
+61,seshego,Seshego,Given Mothemane ,079 340 2881,Seshego,Madiba Park Complex Cnr Nelson Mandela and Madiba Park Crossing Seshego,,ttseshegobm@topt.co.za,T053,1,08:00am - 05:00pm
+67,thohoyando,Thohoyando,Mauda Phathutshedzo,083 392 8095,Thohoyandou,Main Road R524 - Muledane Next To Tj Superquick Tyres,,toptthohoyandoubm@topt.co.za,T050,1,08:00am - 05:00pm
+68,elim,Elim,Jeffrey Muvhumbe,079 310 4207,Elim,Stand no. 8026 Sefasoke ,Elim,elimbm@topt.co.za,T091,1,08:00am - 05:00pm
+134,lebowakgomo,Lebowakgomo,Sandile Baloyi,073 459 8823,Lebowakgomo,"Orrie Barangwanath Pass, Route R518, Lebowakgomo 0737",,lebowakgomobm@topt.co.za,T095,1,08:00am - 05:00pm
+138,sibasa,Sibasa,Maselesele Louisa,076 286 2141,Sibasa,"ERF 57 Miluwane Sibasa Thohoyandou,Limpopo 0950",,sibasabm@topt.co.za,T076,1,08:00am - 05:00pm
+141,tshilamba,Tshilamba,Gladys Mukhubu,071 627 9547,Tshilamba,"ERF 2318, Mutale","Extension 1, Thohoyandou",Tshilambabm@topt.co.za,T082,1,08:00am - 05:00pm
+142,mankweng,Mankweng,Moloko Maphosa,076 895 4004,Mankweng,"3185 Moremadi Park, Ga-Mothapo Village",,mankwengbm@topt.co.za,T077,1,08:00am - 05:00pm
+146,namakgale,Namakgale,Simson Maile,068 785 8466,Namakgale,"Namakgale crossing complex, Shop no1 & 2 Calvin Ngobeni street,Namakgale 1391",,namakgalebm@topt.co.za,T096,1,08:00am - 05:00pm
+151,topt-tzaneen,TopT Tzaneen,Emmelinah Kholofelo Teffu,073 195 2290,Tzaneen,"CNR Sapekoe Drive & Claude Wheatley Street , Tzaneen 0850",,topttzaneenbm@topt.co.za,T094,1,08:00am - 05:00pm
+155,nzhelele,Nzhelele,Thendo Kwinda,0649354266,Siloam Village,"20271, Siloam Village",Nzhelele,Nzhelelebm@topt.co.za,T085,1,08:00am - 05:00pm
+158,sekororo,Sekororo,Snegugu Nzimande,065 674 1646,Trichardsdal,"252, Nkopetsi Village, Sekororo, Trichardsdal",,toptsekororobm@topt.co.za,T097,1,08:00am - 05:00pm
+1,acornhoek,Acornhoek,Guild Sibuyi,013 492 1957,Acornhoek,"Stand no 692 (on the R40) Green Valley Trust, Acornhoek 1280",Green Valley Trust,acornhoekbm@topt.co.za,H038,1,08:00am - 05:00pm
+9,burgersfort,Burgersfort,Phineas Ramoshaba,078 669 3147,Burgersfort,Stand 0258,"Stand 0258, Mashifane Park, Farm No 296 KT, Burgersfort 1150",toptburgersfort@topt.co.za,T093,1,08:00am - 05:00pm
+10,thulamahashe,Thulamahashe,Tshepo Mkhonto ,087 288 5833,Thulamahashe,"Thulamahashe Plaza, Old Jet Store, Shop 69 & 70, Thulamahashe C 1365",Thulamahashe,Toptbushbuckridgecash@topt.co.za,H021,1,08:00am - 05:00pm
+14,ermelo,Ermelo,Fezile Sifundza,087 288 5837,Ermelo,"117 Church street, Ermelo 2350",,toptermelobm@topt.co.za,H032,1,08:00am - 05:00pm
+29,kwa-mhlanga,Kwa-Mhlanga,Makhosini Nkosi, 013 492 2062,Kwa-Mhlanga,Stand 213 Sun City AA KwaMhlanga 1022 Mpumalanga,,toptkwamhlangabm@topt.co.za,H065,1,08:00am - 05:00pm
+40,middleburg,Middleburg,Sithembiso Mkhwanazi,087 288 5826,Middelburg,"25 Meyer Street, Middelburg 1050",,toptmiddelburgbm@topt.co.za,H043,1,08:00am - 05:00pm
+47,nelspruit,Nelspruit,Trevor Mlangeni,076 739 3060,Nelspruit,"C/o Samora Machel dr and Cameron Street, Nelspruit 1200",,toptnelspruit@topt.co.za,H013,1,08:00am - 05:00pm
+49,nkomazi,Nkomazi,Sanele Magagula,087 288 5831,Nkomazi,"Block A Tonga, Opposite DD Mabuza School, Nkomazi 1300",Opposite Dd Mabuza School,ttnkomazibm@italtile.co.za,H036,1,08:00am - 05:00pm
+74,witbank,Witbank,Oupa Paohanga,063 195 3979,Witbank,"Erf 4779, 1ADiederick Street, Witbank 1039",,toptwitbank@topt.co.za,H016,1,08:00am - 05:00pm
+77,hazyview,Hazyview,Collen Mzimba,087 086 0815,Hazyview,"Twin City, Shop no 8 Erf 1246 Hazyview 1242",,toptnumbibm@topt.co.za,H052,1,08:00am - 05:00pm
+136,siyabuswa,Siyabuswa,Mavis Ndala,087 284 8537 ,Siyabuswa,"R568 Road Kgobokwane, Siyabuswa 0472",Kgobokwane,toptsiyabuswabm@topt.co.za,H082,1,08:00am - 05:00pm
+145,elukwatini,Elukwatini,Njabulo Ndwande ,087 228 5840,Elukwatini,"Thwala Umkhonto Centre, Stand no 999, Shop 8 and 9 Elukwatini 1192",,toptelukwatinimanager@topt.co.za,H047,1,08:00am - 05:00pm
+159,schoemansdal,Schoemansdal,Robert Tivane,076 314 2203,schoemansdal,Sibisi Business CentreNo2. Driekoppies Road (off the R570)Schoemansdal1331,,schoemansdal@topt.co.za,H093,1,08:00am - 05:00pm
+24,klerksdorp,Klerksdorp,Amogelang Matsitla,072 573 6460,Klerksdorp,"26 Archbishop Desmond Tutu Street, Klerksdorp Central, Klerksdorp, 2571",,toptklerksdorp@topt.co.za,T071,1,08:00am - 05:00pm
+34,lichtenburg,Lichtenburg,Peter Sebolediso,083 468 8543,Lichtenburg,"Cnr Nelson Mandela & Buchanan Street. Lichtenburg,2740",Ebenlou Building,toptlichtenburg@topt.co.za,T068,1,08:00am - 05:00pm
+36,mafikeng,Mafikeng,Michael Badenhorst,072 604 1347,Mafikeng,34 MAIN STREETSHOP NO:1 OGUTTA INVESTMENTMAHIKENG2745.,,toptmafikeng@topt.co.za,T072,1,08:00am - 05:00pm
+42,mogwase,Mogwase,Gomolemo Motlokwa,072 574 0359,Mogwase,"Stand 949 Unit 3, Itsoseng, 0314",,toptmogwase@topt.co.za,T070,1,08:00am - 05:00pm
+50,northam,Northam,Keneilwe Lethokoe,072 605 8088,Northam,"Stand No 719, Cnr Ruby Str & Botha Rd, Northam, 0360",Corner Ruby Street And Botha Rd,toptnortham@topt.co.za,T073,1,08:00am - 05:00pm
+60,rustenburg,Rustenburg,Jefrey Chilaya,072 605 2827,Rustenburg,"115 Leyds Street, Rustenburg, 2999",,toptrustenburg@topt.co.za,T067,1,08:00am - 05:00pm
+65,potchefstroom,Potchefstroom,Edwin Simbane  ,071 333 4850,Potchefstroom,"41 Dr James Moroka Street, Potchefstroom, 2531",,toptpotchefstroombm@topt.co.za,T074,1,08:00am - 05:00pm
+75,zeerust,Zeerust,Golekwang Modise ,072 604 3128,Zeerust,"59 Church Street, Zeerust, 2865",Church Street,toptzeerust@topt.co.za,T069,1,08:00am - 05:00pm
+131,garankuwa,Garankuwa,Clinton Obakeng,012 725 8093,Ga-Rankuwa,Molefi Makinta nr 8; Opposite Ttotal Garage,,garankuwabm@topt.co.za,T044,1,08:00am - 05:00pm
+135,lethlabile,Lethlabile,Joel Mahae,012 251 6031,Lethlabile,"Lethlabile Centre, Shop 9, 10th Ave, Lethlabile A, Brits",cnr Warmbad Street and 10th Ave,lethlabilebm@topt.co.za,T055,1,08:00am - 05:00pm
+143,ganyesa,Ganyesa,Mohau Mokhehle ,072 595 6584,Ganyesa,"Ganyesa Taxi rank - next to cashbuild - North west Province, Choppies Centre, R38 Road, Ganyesa Village, Ganyesa",,ganyesabm@topt.co.za,T083,1,08:00am - 05:00pm
+22,kimberley,Kimberley,Mapaseka shale,072 572 0677,Kimberley,"108 Phakamile Mabija Road, Kimberley North",,toptkimberleybm@topt.co.za,T064,1,08:00am - 05:00pm
+27,kuruman,Kuruman,Lesedi Phiritshwane,072 604 3495,Kuruman,"3466 Livingstone Street, Kuruman, 8460",,toptkuruman@topt.co.za,T065,1,08:00am - 05:00pm
+79,taung,Taung,Gomolemo Gaotsietsi,072 605 7972,Taung,"Shop Number 32/33, Station Road,Taung Forum, Taung, 8584",Station Road,topttaung@topt.co.za,T066,1,08:00am - 05:00pm
+3,bellville,Bellville,Eddie Mnguni,021 949 8876,Bellville,64 Voortrekker cnr Robert Sebukwe Street,,ttbellvillem@topt.co.za,T040,1,08:00am - 05:00pm
+51,nyanga,Nyanga,Phakamani Ngema,021 699 3218,Nyanga,Shop 56 D Nyanga Junction,Duinefontein Road Manenberg,ttnyangam@topt.co.za,T042,1,08:00am - 05:00pm
